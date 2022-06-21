@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "deploy": "gh-pages -d build -b main",
+    "build": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "gh-pages": "^4.0.0",
+    "jssoup": "^0.0.15"
+  }
+}
