@@ -1,6 +1,5 @@
 const axios = require('axios');
 const jssoup = require('jssoup').default;
-const save_file = require('./save_file');
 
 module.exports = async function (user) {
   try {
@@ -43,6 +42,7 @@ module.exports = async function (user) {
           url: `https://github.com${repo_title__url}`,
           updated_datetime: date__str,
           updated_day_ago: days_ago,
+          login: user,
         });
 
         console.log(
