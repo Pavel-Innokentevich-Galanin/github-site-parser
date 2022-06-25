@@ -35,7 +35,7 @@ module.exports = async function (org) {
       login: org,
     });
 
-    console.log(`${repo_title__text} - https://github.com${repo_title__url}`);
+    // console.log(`${repo_title__text} - https://github.com${repo_title__url}`);
   });
 
   array_repos.sort(function compare(a, b) {

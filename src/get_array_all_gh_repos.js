@@ -6,7 +6,7 @@ module.exports = async function (user) {
     let array_repos = [];
     let url = `https://github.com/${user}?page=1&tab=repositories`;
     while (1) {
-      console.log(url);
+      // console.log(url);
       let response = await axios.get(url);
       const html = response.data;
 
@@ -45,9 +45,9 @@ module.exports = async function (user) {
           login: user,
         });
 
-        console.log(
-          `${repo_title__text} - https://github.com${repo_title__url}`
-        );
+        // console.log(
+        // `${repo_title__text} - https://github.com${repo_title__url}`
+        // );
       });
 
       //Получаем блок с кнопками вперёд и назад
@@ -66,8 +66,8 @@ module.exports = async function (user) {
         break;
       } else {
         url = `https://github.com${url}`;
-        console.log(' ');
-        console.log(url);
+        // console.log(' ');
+        // console.log(url);
       }
     }
 
