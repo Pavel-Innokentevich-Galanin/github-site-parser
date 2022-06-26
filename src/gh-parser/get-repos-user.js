@@ -39,10 +39,14 @@ module.exports = async function (user) {
 
         array_repos.push({
           name: repo_title__text,
-          url: `https://github.com${repo_title__url}`,
-          updated_datetime: date__str,
-          updated_day_ago: days_ago,
-          login: user,
+          url: repo_title__url,
+          updated: {
+            datetime: date__str,
+            days_ago: days_ago,
+          },
+          author: {
+            login: user,
+          },
         });
 
         // console.log(

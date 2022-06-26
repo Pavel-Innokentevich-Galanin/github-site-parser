@@ -40,22 +40,19 @@ async function get_repo_info(login, repo) {
           };
           break;
         case 'Stars':
-          stars = e?.nextSibling?.text
-            ?.trim()
-            ?.replace('\n', '')
-            ?.split(' ')[0];
+          stars = Number(
+            e?.nextSibling?.text?.trim()?.replace('\n', '')?.split(' ')[0]
+          );
           break;
         case 'Watchers':
-          watchers = e?.nextSibling?.text
-            ?.trim()
-            ?.replace('\n', '')
-            ?.split(' ')[0];
+          watchers = Number(
+            e?.nextSibling?.text?.trim()?.replace('\n', '')?.split(' ')[0]
+          );
           break;
         case 'Forks':
-          forks = e?.nextSibling?.text
-            ?.trim()
-            ?.replace('\n', '')
-            ?.split(' ')[0];
+          forks = Number(
+            e?.nextSibling?.text?.trim()?.replace('\n', '')?.split(' ')[0]
+          );
           break;
       }
     });

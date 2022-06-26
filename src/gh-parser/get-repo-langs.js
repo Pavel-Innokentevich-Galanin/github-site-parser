@@ -20,20 +20,20 @@ module.exports = async function main(login, repo) {
       const a = element?.find('a');
       const a__text = a?.getText('@@@').split('@@@');
       //   console.log(a__text);
-      const couter = a__text[0];
-      const lang = a__text[1]?.replace('\n', '')?.trim();
+      const couter = Number(a__text[0]);
+      const language = a__text[1]?.replace('\n', '')?.trim();
       array?.push({
-        counter: couter,
-        lang: lang,
+        couter,
+        language,
       });
       //   console.log('=================================');
     });
 
     array?.sort(function compare(a, b) {
-      if (Number(a.counter) > Number(b.counter)) {
+      if (a.counter > b.counter) {
         return -1;
       }
-      if (Number(a.counter) < Number(b.counter)) {
+      if (a.counter < b.counter) {
         return 1;
       }
       return 0;
