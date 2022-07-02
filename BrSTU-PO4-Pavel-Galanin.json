@@ -1,0 +1,1536 @@
+[
+  {
+    "name": "1sem_OAiP",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/1sem_OAiP",
+    "updated_at": "2022-06-06T08:56:30Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 24,
+        "language": "TeX",
+        "sum": 59
+      },
+      {
+        "counter": 8,
+        "language": "XML",
+        "sum": 59
+      },
+      {
+        "counter": 7,
+        "language": "Ignore List",
+        "sum": 59
+      },
+      {
+        "counter": 5,
+        "language": "Markdown",
+        "sum": 59
+      },
+      {
+        "counter": 4,
+        "language": "C++",
+        "sum": 59
+      },
+      {
+        "counter": 4,
+        "language": "Git Attributes",
+        "sum": 59
+      },
+      {
+        "counter": 3,
+        "language": "Makefile",
+        "sum": 59
+      },
+      {
+        "counter": 3,
+        "language": "YAML",
+        "sum": 59
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 59
+      }
+    ],
+    "more": {
+      "description": "",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/1sem_OAiP/blob/galanin/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 0,
+      "forks": 0
+    }
+  },
+  {
+    "name": "2sem_YP",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/2sem_YP",
+    "updated_at": "2021-07-19T10:06:20Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 37,
+        "language": "C",
+        "sum": 119
+      },
+      {
+        "counter": 35,
+        "language": "TeX",
+        "sum": 119
+      },
+      {
+        "counter": 20,
+        "language": "Markdown",
+        "sum": 119
+      },
+      {
+        "counter": 10,
+        "language": "Ignore List",
+        "sum": 119
+      },
+      {
+        "counter": 7,
+        "language": "Text",
+        "sum": 119
+      },
+      {
+        "counter": 5,
+        "language": "YAML",
+        "sum": 119
+      },
+      {
+        "counter": 5,
+        "language": "CMake",
+        "sum": 119
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Языки программирования\" [C]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/2sem_YP/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "2sem_coursework",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/2sem_coursework",
+    "updated_at": "2022-04-11T10:07:46Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 29,
+        "language": "C",
+        "sum": 58
+      },
+      {
+        "counter": 21,
+        "language": "TeX",
+        "sum": 58
+      },
+      {
+        "counter": 2,
+        "language": "Markdown",
+        "sum": 58
+      },
+      {
+        "counter": 2,
+        "language": "Ignore List",
+        "sum": 58
+      },
+      {
+        "counter": 2,
+        "language": "Makefile",
+        "sum": 58
+      },
+      {
+        "counter": 1,
+        "language": "Objective-C",
+        "sum": 58
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 58
+      }
+    ],
+    "more": {
+      "description": "Курсовая работа №1 - Обработка массивов структурированных данных \"Водоёмы страны\" по дисциплине \"Основы алгоритмизации и программирования\" [C]",
+      "license": {
+        "name": "",
+        "url": ""
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "3sem_DiscreteMath",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_DiscreteMath",
+    "updated_at": "2021-07-26T22:46:04Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 45,
+        "language": "Python",
+        "sum": 74
+      },
+      {
+        "counter": 14,
+        "language": "C++",
+        "sum": 74
+      },
+      {
+        "counter": 7,
+        "language": "Ignore List",
+        "sum": 74
+      },
+      {
+        "counter": 5,
+        "language": "Text",
+        "sum": 74
+      },
+      {
+        "counter": 2,
+        "language": "CMake",
+        "sum": 74
+      },
+      {
+        "counter": 1,
+        "language": "C",
+        "sum": 74
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Дискретная математика\" [Python | C | C++]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_DiscreteMath/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "3sem_TRIPS",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_TRIPS",
+    "updated_at": "2021-08-22T15:33:12Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 132,
+        "language": "XML",
+        "sum": 305
+      },
+      {
+        "counter": 116,
+        "language": "C#",
+        "sum": 305
+      },
+      {
+        "counter": 28,
+        "language": "Git Attributes",
+        "sum": 305
+      },
+      {
+        "counter": 28,
+        "language": "Ignore List",
+        "sum": 305
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 305
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Технологии разработки интерфейса программных средств\" [C# | XAML]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_TRIPS/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "3sem_YP_part1",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_YP_part1",
+    "updated_at": "2021-08-08T21:19:45Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 29,
+        "language": "Python",
+        "sum": 85
+      },
+      {
+        "counter": 24,
+        "language": "C++",
+        "sum": 85
+      },
+      {
+        "counter": 12,
+        "language": "Markdown",
+        "sum": 85
+      },
+      {
+        "counter": 5,
+        "language": "Makefile",
+        "sum": 85
+      },
+      {
+        "counter": 5,
+        "language": "Ignore List",
+        "sum": 85
+      },
+      {
+        "counter": 5,
+        "language": "CSV",
+        "sum": 85
+      },
+      {
+        "counter": 3,
+        "language": "CMake",
+        "sum": 85
+      },
+      {
+        "counter": 1,
+        "language": "Jupyter Notebook",
+        "sum": 85
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 85
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Языки программирования\" [C++, Python]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_YP_part1/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "3sem_YP_part2",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_YP_part2",
+    "updated_at": "2021-08-08T21:38:41Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 21,
+        "language": "PHP",
+        "sum": 30
+      },
+      {
+        "counter": 3,
+        "language": "CSS",
+        "sum": 30
+      },
+      {
+        "counter": 2,
+        "language": "Markdown",
+        "sum": 30
+      },
+      {
+        "counter": 2,
+        "language": "YAML",
+        "sum": 30
+      },
+      {
+        "counter": 1,
+        "language": "Hack",
+        "sum": 30
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 30
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Языки программирования\" [PHP]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_YP_part2/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "3sem_coursework",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/3sem_coursework",
+    "updated_at": "2022-04-11T10:29:11Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 29,
+        "language": "TeX",
+        "sum": 54
+      },
+      {
+        "counter": 18,
+        "language": "PHP",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "CSS",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "ApacheConf",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "Hack",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 54
+      }
+    ],
+    "more": {
+      "description": "Курсовая работа №2 - Информационная система \"Товары\" по дисциплине \"Языки программирования\" [PHP | MySQL]",
+      "license": {
+        "name": "",
+        "url": ""
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "4sem_OOTPiSP",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/4sem_OOTPiSP",
+    "updated_at": "2022-04-11T20:02:13Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 82,
+        "language": "TeX",
+        "sum": 169
+      },
+      {
+        "counter": 27,
+        "language": "Markdown",
+        "sum": 169
+      },
+      {
+        "counter": 18,
+        "language": "Ignore List",
+        "sum": 169
+      },
+      {
+        "counter": 17,
+        "language": "C++",
+        "sum": 169
+      },
+      {
+        "counter": 10,
+        "language": "YAML",
+        "sum": 169
+      },
+      {
+        "counter": 8,
+        "language": "CMake",
+        "sum": 169
+      },
+      {
+        "counter": 5,
+        "language": "Makefile",
+        "sum": 169
+      },
+      {
+        "counter": 2,
+        "language": "Text",
+        "sum": 169
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Объектно ориентированные технологии программирования и стандарты проектирования\" [C++]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/4sem_OOTPiSP/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "4sem_OSiSP",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/4sem_OSiSP",
+    "updated_at": "2022-04-11T19:13:17Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 88,
+        "language": "TeX",
+        "sum": 183
+      },
+      {
+        "counter": 26,
+        "language": "C",
+        "sum": 183
+      },
+      {
+        "counter": 24,
+        "language": "Markdown",
+        "sum": 183
+      },
+      {
+        "counter": 19,
+        "language": "Ignore List",
+        "sum": 183
+      },
+      {
+        "counter": 15,
+        "language": "Makefile",
+        "sum": 183
+      },
+      {
+        "counter": 7,
+        "language": "YAML",
+        "sum": 183
+      },
+      {
+        "counter": 1,
+        "language": "HTML",
+        "sum": 183
+      },
+      {
+        "counter": 1,
+        "language": "XML",
+        "sum": 183
+      },
+      {
+        "counter": 1,
+        "language": "Shell",
+        "sum": 183
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 183
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Операционные системы и системное программирование [Linux, bash, semafor]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/4sem_OSiSP/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "4sem_coursework",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/4sem_coursework",
+    "updated_at": "2022-04-11T10:54:38Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 22,
+        "language": "TeX",
+        "sum": 30
+      },
+      {
+        "counter": 3,
+        "language": "Python",
+        "sum": 30
+      },
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 30
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 30
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 30
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 30
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 30
+      }
+    ],
+    "more": {
+      "description": "Курсовая работа №3 - Моделирование алгоритмов обучения и функционирования искусственных нейронных сетей на базе фреймворка TensorFlow по дисциплине \"Компьютерные системы и сети\" [Python]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/4sem_coursework/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_NPO_old",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_NPO_old",
+    "updated_at": "2021-12-18T23:38:56Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 33,
+        "language": "C++",
+        "sum": 138
+      },
+      {
+        "counter": 21,
+        "language": "TeX",
+        "sum": 138
+      },
+      {
+        "counter": 16,
+        "language": "Markdown",
+        "sum": 138
+      },
+      {
+        "counter": 16,
+        "language": "XML",
+        "sum": 138
+      },
+      {
+        "counter": 15,
+        "language": "C",
+        "sum": 138
+      },
+      {
+        "counter": 13,
+        "language": "Text",
+        "sum": 138
+      },
+      {
+        "counter": 8,
+        "language": "HTML",
+        "sum": 138
+      },
+      {
+        "counter": 7,
+        "language": "xBase",
+        "sum": 138
+      },
+      {
+        "counter": 6,
+        "language": "Ignore List",
+        "sum": 138
+      },
+      {
+        "counter": 3,
+        "language": "Python",
+        "sum": 138
+      }
+    ],
+    "more": {
+      "description": "5 семестр ПОИТ. НПО - Надежность Программного Обеспечения",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_NPO_old/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_OOTPiSP",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_OOTPiSP",
+    "updated_at": "2021-12-18T17:27:32Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 60,
+        "language": "C++",
+        "sum": 140
+      },
+      {
+        "counter": 27,
+        "language": "QMake",
+        "sum": 140
+      },
+      {
+        "counter": 19,
+        "language": "XML",
+        "sum": 140
+      },
+      {
+        "counter": 15,
+        "language": "Ignore List",
+        "sum": 140
+      },
+      {
+        "counter": 8,
+        "language": "C#",
+        "sum": 140
+      },
+      {
+        "counter": 5,
+        "language": "TeX",
+        "sum": 140
+      },
+      {
+        "counter": 3,
+        "language": "Text",
+        "sum": 140
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 140
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 140
+      },
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 140
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Объектно ориентированные технологии программирования и стандарты проектирования\" [Qt | SqlLite]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_OOTPiSP/blob/gpi_/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_OSiSP",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_OSiSP",
+    "updated_at": "2021-12-30T17:52:44Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 1
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Операционные системы и системное программирование\" [Qt | dll | server]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_OSiSP/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_OSiSP_fork",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_OSiSP_fork",
+    "updated_at": "2021-12-24T22:59:54Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Closed",
+        "sum": 1
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Операционные системы и системное программирование\" [Qt | dll | server]",
+      "license": {
+        "name": "",
+        "url": ""
+      },
+      "stars": 0,
+      "watchers": 0,
+      "forks": 9
+    }
+  },
+  {
+    "name": "5sem_OSiSP_hw",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_OSiSP_hw",
+    "updated_at": "2021-12-24T11:37:15Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 6,
+        "language": "XML",
+        "sum": 16
+      },
+      {
+        "counter": 3,
+        "language": "C++",
+        "sum": 16
+      },
+      {
+        "counter": 3,
+        "language": "Git Attributes",
+        "sum": 16
+      },
+      {
+        "counter": 3,
+        "language": "Ignore List",
+        "sum": 16
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 16
+      }
+    ],
+    "more": {
+      "description": "",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_OSiSP_hw/blob/homework1/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_PSOD",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD",
+    "updated_at": "2021-12-01T10:17:45Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 2,
+        "language": "Ignore List",
+        "sum": 3
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 3
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Прикладные cистемы обработки данных\" [1C]",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 1
+    }
+  },
+  {
+    "name": "5sem_PSOD_barbershop",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD_barbershop",
+    "updated_at": "2022-01-05T22:50:47Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 2
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 2
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Прикладные cистемы обработки данных\" [1C]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD_barbershop/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_PSOD_food",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD_food",
+    "updated_at": "2022-01-05T21:10:31Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 2
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 2
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Прикладные cистемы обработки данных\" [1C]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD_food/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_PSOD_library",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD_library",
+    "updated_at": "2022-01-06T01:18:19Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 2
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 2
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Прикладные cистемы обработки данных\" [1C]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD_library/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_PSOD_new",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD_new",
+    "updated_at": "2021-12-01T20:51:24Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 2
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 2
+      }
+    ],
+    "more": {
+      "description": "",
+      "license": {
+        "name": "Unlicense license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_PSOD_new/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_SPP",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_SPP",
+    "updated_at": "2021-12-09T14:35:33Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Современные платформы программирования\" [Java | C#]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_SPP/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_WT",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_WT",
+    "updated_at": "2021-11-25T22:10:10Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 43,
+        "language": "PHP",
+        "sum": 126
+      },
+      {
+        "counter": 20,
+        "language": "TeX",
+        "sum": 126
+      },
+      {
+        "counter": 12,
+        "language": "JavaScript",
+        "sum": 126
+      },
+      {
+        "counter": 10,
+        "language": "Ignore List",
+        "sum": 126
+      },
+      {
+        "counter": 10,
+        "language": "Text",
+        "sum": 126
+      },
+      {
+        "counter": 9,
+        "language": "Makefile",
+        "sum": 126
+      },
+      {
+        "counter": 8,
+        "language": "YAML",
+        "sum": 126
+      },
+      {
+        "counter": 6,
+        "language": "Shell",
+        "sum": 126
+      },
+      {
+        "counter": 4,
+        "language": "Markdown",
+        "sum": 126
+      },
+      {
+        "counter": 4,
+        "language": "SQL",
+        "sum": 126
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Веб nехнологии\" [PHP | ColdFusion]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_WT/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "5sem_coursework",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_coursework",
+    "updated_at": "2022-06-26T17:36:16Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 98,
+        "language": "JavaScript",
+        "sum": 179
+      },
+      {
+        "counter": 21,
+        "language": "CSS",
+        "sum": 179
+      },
+      {
+        "counter": 20,
+        "language": "TeX",
+        "sum": 179
+      },
+      {
+        "counter": 14,
+        "language": "JSON",
+        "sum": 179
+      },
+      {
+        "counter": 9,
+        "language": "Text",
+        "sum": 179
+      },
+      {
+        "counter": 6,
+        "language": "Ignore List",
+        "sum": 179
+      },
+      {
+        "counter": 5,
+        "language": "SQL",
+        "sum": 179
+      },
+      {
+        "counter": 2,
+        "language": "Browserslist",
+        "sum": 179
+      },
+      {
+        "counter": 2,
+        "language": "HTML",
+        "sum": 179
+      },
+      {
+        "counter": 2,
+        "language": "ApacheConf",
+        "sum": 179
+      }
+    ],
+    "more": {
+      "description": "Курсовая работа №4 - Веб приложение для оптовой компании по дисциплине \"Операционные системы и системное программирование\" [NodeJS | ReactJS | MySQL]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_coursework/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 1
+    }
+  },
+  {
+    "name": "6sem_PIS",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_PIS",
+    "updated_at": "2022-03-13T20:09:52Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 4
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 4
+      },
+      {
+        "counter": 1,
+        "language": "Ruby",
+        "sum": 4
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 4
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Проектирование интернет-систем\" [Vagrant, VirtualBox, docker-compose, PHP, MySQL]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_PIS/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "6sem_RPOdMS",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_RPOdMS",
+    "updated_at": "2022-05-05T04:53:30Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 112,
+        "language": "XML",
+        "sum": 348
+      },
+      {
+        "counter": 77,
+        "language": "TeX",
+        "sum": 348
+      },
+      {
+        "counter": 38,
+        "language": "Java",
+        "sum": 348
+      },
+      {
+        "counter": 31,
+        "language": "Ignore List",
+        "sum": 348
+      },
+      {
+        "counter": 30,
+        "language": "Gradle",
+        "sum": 348
+      },
+      {
+        "counter": 20,
+        "language": "Java Properties",
+        "sum": 348
+      },
+      {
+        "counter": 10,
+        "language": "Markdown",
+        "sum": 348
+      },
+      {
+        "counter": 10,
+        "language": "Batchfile",
+        "sum": 348
+      },
+      {
+        "counter": 10,
+        "language": "Proguard",
+        "sum": 348
+      },
+      {
+        "counter": 10,
+        "language": "Shell",
+        "sum": 348
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Разработка программного обеспечения для мобильных систем\" [AndroidStudio, Java, XML, React Native]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_RPOdMS/blob/dev/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "6sem_SPP",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_SPP",
+    "updated_at": "2022-05-27T21:16:29Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 81,
+        "language": "XML",
+        "sum": 226
+      },
+      {
+        "counter": 78,
+        "language": "TeX",
+        "sum": 226
+      },
+      {
+        "counter": 28,
+        "language": "Java",
+        "sum": 226
+      },
+      {
+        "counter": 18,
+        "language": "Ignore List",
+        "sum": 226
+      },
+      {
+        "counter": 6,
+        "language": "YAML",
+        "sum": 226
+      },
+      {
+        "counter": 6,
+        "language": "Makefile",
+        "sum": 226
+      },
+      {
+        "counter": 3,
+        "language": "Text",
+        "sum": 226
+      },
+      {
+        "counter": 3,
+        "language": "Maven POM",
+        "sum": 226
+      },
+      {
+        "counter": 2,
+        "language": "HTML",
+        "sum": 226
+      },
+      {
+        "counter": 1,
+        "language": "INI",
+        "sum": 226
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Современные платформы программирования\" [Java, Thread, JavaFX, SceneBuilder, javafx.concurrent.Task, SQLite, org.junit.Test, java.net.Socket]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_SPP/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "6sem_YITPiIM",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_YITPiIM",
+    "updated_at": "2022-05-04T02:40:09Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 17,
+        "language": "TeX",
+        "sum": 21
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 21
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 21
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 21
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 21
+      }
+    ],
+    "more": {
+      "description": "Лабораторные работы по дисциплине \"Управление ИТ проектами и информационный менеджмент\" [LibreOfficeCalc, drawio]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_YITPiIM/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "6sem_coursework",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_coursework",
+    "updated_at": "2022-05-15T22:58:47Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 17,
+        "language": "JavaScript",
+        "sum": 51
+      },
+      {
+        "counter": 13,
+        "language": "TeX",
+        "sum": 51
+      },
+      {
+        "counter": 5,
+        "language": "CSS",
+        "sum": 51
+      },
+      {
+        "counter": 4,
+        "language": "JSON",
+        "sum": 51
+      },
+      {
+        "counter": 4,
+        "language": "Ignore List",
+        "sum": 51
+      },
+      {
+        "counter": 2,
+        "language": "Markdown",
+        "sum": 51
+      },
+      {
+        "counter": 2,
+        "language": "YAML",
+        "sum": 51
+      },
+      {
+        "counter": 2,
+        "language": "Text",
+        "sum": 51
+      },
+      {
+        "counter": 1,
+        "language": "HTML",
+        "sum": 51
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 51
+      }
+    ],
+    "more": {
+      "description": "Курсовая работа №5 - Коллекционная карточная игра по дисциплине \"Современные платформы программирования\" [Figma, ReactJS]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/6sem_coursework/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "7sem_coursework",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/7sem_coursework",
+    "updated_at": "2022-05-10T22:44:02Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 12,
+        "language": "TeX",
+        "sum": 25
+      },
+      {
+        "counter": 3,
+        "language": "SQL",
+        "sum": 25
+      },
+      {
+        "counter": 3,
+        "language": "Ignore List",
+        "sum": 25
+      },
+      {
+        "counter": 2,
+        "language": "Markdown",
+        "sum": 25
+      },
+      {
+        "counter": 2,
+        "language": "YAML",
+        "sum": 25
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 25
+      },
+      {
+        "counter": 1,
+        "language": "Shell",
+        "sum": 25
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 25
+      }
+    ],
+    "more": {
+      "description": "Курсовая работа №6 - Проектирование базы данных для подсистема \"Инвентаризация\" информационной системы \"Косметический салон\" по дисциплине \"Базы данных\" [LibreOfficeCalc, ARIS, ErWIN]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/7sem_coursework/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  }
+]

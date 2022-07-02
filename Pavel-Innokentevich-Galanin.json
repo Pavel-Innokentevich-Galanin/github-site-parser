@@ -1,0 +1,541 @@
+[
+  {
+    "name": "BrSTU-literature-generator-bot",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-literature-generator-bot",
+    "updated_at": "2022-06-23T21:32:20Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 3,
+        "language": "JSON",
+        "sum": 9
+      },
+      {
+        "counter": 2,
+        "language": "JavaScript",
+        "sum": 9
+      },
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 9
+      },
+      {
+        "counter": 1,
+        "language": "Shell",
+        "sum": 9
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 9
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 9
+      }
+    ],
+    "more": {
+      "description": "Telegram bot, который по сообщению с ссылками будет генерировать TeX разметку по ГОСТ (title [Электронный ресурс]. Режим доступа: \\url{}. Дата доступа: XX.XX.XXXX. title [Electronic resource]. Mode of access: \\url{}. Date of access: XX.XX.XXXX.)",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-literature-generator-bot/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "BrSTU-olimp",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-olimp",
+    "updated_at": "2022-05-17T21:42:34Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 9,
+        "language": "Markdown",
+        "sum": 27
+      },
+      {
+        "counter": 8,
+        "language": "C++",
+        "sum": 27
+      },
+      {
+        "counter": 8,
+        "language": "XML",
+        "sum": 27
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 27
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 27
+      }
+    ],
+    "more": {
+      "description": "Olimp BrSTU 2022-05-17",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-olimp/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "BrSTU-tex-for-coursework",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-tex-for-coursework",
+    "updated_at": "2022-06-11T16:23:38Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 28,
+        "language": "TeX",
+        "sum": 35
+      },
+      {
+        "counter": 2,
+        "language": "Markdown",
+        "sum": 35
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 35
+      },
+      {
+        "counter": 1,
+        "language": "Java",
+        "sum": 35
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 35
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 35
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 35
+      }
+    ],
+    "more": {
+      "description": "TeX-шаблон пояснительной записки для курсовой работы с рамкой, приложений с рамкой, отчёта лабораторной работы [TeX]",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-tex-for-coursework/blob/Galanin_Pavel/LICENSE"
+      },
+      "stars": 2,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "BrSTU-what-week-telegram-bot",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-what-week-telegram-bot",
+    "updated_at": "2022-06-17T18:31:10Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 3,
+        "language": "JSON",
+        "sum": 9
+      },
+      {
+        "counter": 2,
+        "language": "Text",
+        "sum": 9
+      },
+      {
+        "counter": 2,
+        "language": "JavaScript",
+        "sum": 9
+      },
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 9
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 9
+      }
+    ],
+    "more": {
+      "description": "Телеграм-бот определяет тип недели в БрГТУ (верхняя/нижняя)",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-what-week-telegram-bot/blob/galanin/LICENSE"
+      },
+      "stars": 1,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "IT-Shark-pro_web-school",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/IT-Shark-pro_web-school",
+    "updated_at": "2021-09-11T22:58:50Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 47,
+        "language": "Sass",
+        "sum": 101
+      },
+      {
+        "counter": 33,
+        "language": "HTML",
+        "sum": 101
+      },
+      {
+        "counter": 6,
+        "language": "JSON",
+        "sum": 101
+      },
+      {
+        "counter": 4,
+        "language": "Markdown",
+        "sum": 101
+      },
+      {
+        "counter": 3,
+        "language": "SVG",
+        "sum": 101
+      },
+      {
+        "counter": 3,
+        "language": "YAML",
+        "sum": 101
+      },
+      {
+        "counter": 2,
+        "language": "Text",
+        "sum": 101
+      },
+      {
+        "counter": 1,
+        "language": "XML",
+        "sum": 101
+      },
+      {
+        "counter": 1,
+        "language": "CSS",
+        "sum": 101
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 101
+      }
+    ],
+    "more": {
+      "description": "Photoshop to HTML/CSS",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/IT-Shark-pro_web-school/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "Pavel-Innokentevich-Galanin.github.io",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/Pavel-Innokentevich-Galanin.github.io",
+    "updated_at": "2022-06-26T16:19:55Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 4,
+        "language": "JavaScript",
+        "sum": 13
+      },
+      {
+        "counter": 2,
+        "language": "CSS",
+        "sum": 13
+      },
+      {
+        "counter": 2,
+        "language": "JSON",
+        "sum": 13
+      },
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 13
+      },
+      {
+        "counter": 1,
+        "language": "SVG",
+        "sum": 13
+      },
+      {
+        "counter": 1,
+        "language": "JSON with Comments",
+        "sum": 13
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 13
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 13
+      }
+    ],
+    "more": {
+      "description": "",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/Pavel-Innokentevich-Galanin.github.io/blob/sources/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "ToDoCalendar_frontend",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/ToDoCalendar_frontend",
+    "updated_at": "2022-06-30T00:41:11Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [],
+    "more": {
+      "description": "React JS",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/ToDoCalendar_frontend/blob/dev/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 0,
+      "forks": 1
+    }
+  },
+  {
+    "name": "docker-compose-nginx-php",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/docker-compose-nginx-php",
+    "updated_at": "2021-08-08T14:54:58Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 5
+      },
+      {
+        "counter": 1,
+        "language": "PHP",
+        "sum": 5
+      },
+      {
+        "counter": 1,
+        "language": "HTML",
+        "sum": 5
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 5
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 5
+      }
+    ],
+    "more": {
+      "description": "Docker-compose, Nginx, PHP",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/docker-compose-nginx-php/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "github-site-parser",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/github-site-parser",
+    "updated_at": "2022-07-02T16:41:29Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 6,
+        "language": "JavaScript",
+        "sum": 12
+      },
+      {
+        "counter": 3,
+        "language": "JSON",
+        "sum": 12
+      },
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 12
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 12
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 12
+      }
+    ],
+    "more": {
+      "description": "Node JS GitHub account page generator",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/github-site-parser/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "html-css-js-slider",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/html-css-js-slider",
+    "updated_at": "2021-07-26T20:10:00Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "HTML",
+        "sum": 4
+      },
+      {
+        "counter": 1,
+        "language": "CSS",
+        "sum": 4
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 4
+      },
+      {
+        "counter": 1,
+        "language": "JavaScript",
+        "sum": 4
+      }
+    ],
+    "more": {
+      "description": "HTML CSS JS slider",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/html-css-js-slider/blob/gh-pages/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "react-express-webradio",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/react-express-webradio",
+    "updated_at": "2022-01-03T23:19:19Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 8,
+        "language": "JavaScript",
+        "sum": 34
+      },
+      {
+        "counter": 7,
+        "language": "JSON",
+        "sum": 34
+      },
+      {
+        "counter": 7,
+        "language": "Text",
+        "sum": 34
+      },
+      {
+        "counter": 4,
+        "language": "Ignore List",
+        "sum": 34
+      },
+      {
+        "counter": 2,
+        "language": "Browserslist",
+        "sum": 34
+      },
+      {
+        "counter": 2,
+        "language": "HTML",
+        "sum": 34
+      },
+      {
+        "counter": 2,
+        "language": "CSS",
+        "sum": 34
+      },
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 34
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 34
+      }
+    ],
+    "more": {
+      "description": "React webradio. Express API.",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/react-express-webradio/blob/dev/gpi_/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 2,
+      "forks": 0
+    }
+  }
+]
