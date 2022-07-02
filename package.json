@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "deploy": "gh-pages -d build -b build",
+    "deploy": "gh-pages -d build",
     "build": "node src/index.js"
   },
   "dependencies": {
