@@ -1,7 +1,10 @@
 const getReposUser = require('./scripts/getReposUser');
 const getReposOrg = require('./scripts/getReposOrg');
+const getGithubColors = require('./scripts/getGithubColors');
 
 async function main() {
+  await getGithubColors();
+
   const users = ['Pavel-Innokentevich-Galanin'];
   const orgs = ['ooodepa', 'ToDoCalendar', 'BrSTU-PO4-Pavel-Galanin'];
 

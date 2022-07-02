@@ -1,6 +1,8 @@
 const axios = require('axios');
 const jssoup = require('jssoup').default;
 
+const GithubColors = require('./../../build/GithubColors.json');
+
 module.exports = async function getRepositoryLanguages(login, repo) {
   try {
     let array = [];
@@ -34,6 +36,13 @@ module.exports = async function getRepositoryLanguages(login, repo) {
 
     array.forEach((obj) => {
       obj.sum = sum_counter;
+    });
+
+    array.forEach((obj) => {
+      if (GithubColors.hasOwnProperty(obj.language)) {
+        obj.color = GithubColors[`${obj.language}`].color;
+        obj.url = GithubColors[`${obj.language}`].url;
+      }
     });
 
     array?.sort(function compare(a, b) {
