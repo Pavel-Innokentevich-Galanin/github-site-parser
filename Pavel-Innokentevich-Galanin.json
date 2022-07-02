@@ -37,15 +37,15 @@
       },
       {
         "counter": 1,
+        "language": "Text",
+        "sum": 9
+      },
+      {
+        "counter": 1,
         "language": "Ignore List",
         "sum": 9,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
-        "sum": 9
       }
     ],
     "more": {
@@ -270,17 +270,17 @@
       },
       {
         "counter": 3,
-        "language": "SVG",
-        "sum": 101,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
-      },
-      {
-        "counter": 3,
         "language": "YAML",
         "sum": 101,
         "color": "#cb171e",
         "url": "https://github.com/trending?l=YAML"
+      },
+      {
+        "counter": 3,
+        "language": "SVG",
+        "sum": 101,
+        "color": "#ff9900",
+        "url": "https://github.com/trending?l=SVG"
       },
       {
         "counter": 2,
@@ -323,64 +323,64 @@
   {
     "name": "Pavel-Innokentevich-Galanin.github.io",
     "html_url": "https://github.com/Pavel-Innokentevich-Galanin/Pavel-Innokentevich-Galanin.github.io",
-    "updated_at": "2022-06-26T16:19:55Z",
+    "updated_at": "2022-07-02T22:16:36Z",
     "owner": {
       "login": "Pavel-Innokentevich-Galanin"
     },
     "languages": [
       {
-        "counter": 4,
+        "counter": 10,
         "language": "JavaScript",
-        "sum": 13,
+        "sum": 22,
         "color": "#f1e05a",
         "url": "https://github.com/trending?l=JavaScript"
       },
       {
-        "counter": 2,
+        "counter": 4,
         "language": "CSS",
-        "sum": 13,
+        "sum": 22,
         "color": "#563d7c",
         "url": "https://github.com/trending?l=CSS"
       },
       {
         "counter": 2,
+        "language": "Markdown",
+        "sum": 22,
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
+      },
+      {
+        "counter": 2,
         "language": "JSON",
-        "sum": 13,
+        "sum": 22,
         "color": "#292929",
         "url": "https://github.com/trending?l=JSON"
       },
       {
         "counter": 1,
-        "language": "Markdown",
-        "sum": 13,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
-      },
-      {
-        "counter": 1,
-        "language": "SVG",
-        "sum": 13,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
-      },
-      {
-        "counter": 1,
         "language": "JSON with Comments",
-        "sum": 13,
+        "sum": 22,
         "color": "#292929",
         "url": "https://github.com/trending?l=JSON-with-Comments"
       },
       {
         "counter": 1,
-        "language": "Ignore List",
-        "sum": 13,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "language": "SVG",
+        "sum": 22,
+        "color": "#ff9900",
+        "url": "https://github.com/trending?l=SVG"
       },
       {
         "counter": 1,
         "language": "Text",
-        "sum": 13
+        "sum": 22
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 22,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       }
     ],
     "more": {
@@ -469,43 +469,43 @@
   {
     "name": "github-site-parser",
     "html_url": "https://github.com/Pavel-Innokentevich-Galanin/github-site-parser",
-    "updated_at": "2022-07-02T18:17:42Z",
+    "updated_at": "2022-07-02T19:00:55Z",
     "owner": {
       "login": "Pavel-Innokentevich-Galanin"
     },
     "languages": [
       {
-        "counter": 6,
+        "counter": 7,
         "language": "JavaScript",
-        "sum": 12,
+        "sum": 13,
         "color": "#f1e05a",
         "url": "https://github.com/trending?l=JavaScript"
       },
       {
         "counter": 3,
         "language": "JSON",
-        "sum": 12,
+        "sum": 13,
         "color": "#292929",
         "url": "https://github.com/trending?l=JSON"
       },
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 12,
+        "sum": 13,
         "color": "#083fa1",
         "url": "https://github.com/trending?l=Markdown"
       },
       {
         "counter": 1,
-        "language": "Ignore List",
-        "sum": 12,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "language": "Text",
+        "sum": 13
       },
       {
         "counter": 1,
-        "language": "Text",
-        "sum": 12
+        "language": "Ignore List",
+        "sum": 13,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       }
     ],
     "more": {

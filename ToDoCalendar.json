@@ -141,13 +141,6 @@
       },
       {
         "counter": 1,
-        "language": "YAML",
-        "sum": 67,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
-      },
-      {
-        "counter": 1,
         "language": "Shell",
         "sum": 67,
         "color": "#89e051",
@@ -159,6 +152,13 @@
         "sum": 67,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 67,
+        "color": "#cb171e",
+        "url": "https://github.com/trending?l=YAML"
       }
     ],
     "more": {

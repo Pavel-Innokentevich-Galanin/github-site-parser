@@ -195,25 +195,6 @@
     }
   },
   {
-    "name": "ooodepa_backend",
-    "html_url": "https://github.com/ooodepa/ooodepa_backend",
-    "updated_at": "2022-06-18T14:59:28Z",
-    "owner": {
-      "login": "ooodepa"
-    },
-    "languages": [],
-    "more": {
-      "description": "",
-      "license": {
-        "name": "GPL-3.0 license",
-        "url": "https://github.com/ooodepa/ooodepa_backend/blob/main/LICENSE"
-      },
-      "stars": 0,
-      "watchers": 0,
-      "forks": 0
-    }
-  },
-  {
     "name": "ooodepa_data",
     "html_url": "https://github.com/ooodepa/ooodepa_data",
     "updated_at": "2022-05-18T13:35:16Z",
