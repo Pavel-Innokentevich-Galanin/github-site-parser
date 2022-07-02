@@ -1,7 +1,7 @@
 const axios = require('axios');
 const jssoup = require('jssoup').default;
 
-module.exports = async function main(login, repo) {
+module.exports = async function getRepositoryLanguages(login, repo) {
   try {
     let array = [];
     let url = `https://github.com/${login}/${repo}/search?l=d`;

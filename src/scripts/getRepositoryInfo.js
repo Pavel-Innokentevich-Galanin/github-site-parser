@@ -1,7 +1,7 @@
 const axios = require('axios');
 const jssoup = require('jssoup').default;
 
-async function get_repo_info(login, repo) {
+module.exports = async function getRepositoryInfo(login, repo) {
   try {
     const url = `https://github.com/${login}/${repo}`;
     const response = await axios.get(url);
@@ -36,7 +36,7 @@ async function get_repo_info(login, repo) {
         case 'License':
           license = {
             name: e?.nextSibling?.text?.trim(),
-            url: e?.nextSibling?.nextElement?.attrs?.href,
+            url: `https://github.com${e?.nextSibling?.nextElement?.attrs?.href}`,
           };
           break;
         case 'Stars':
@@ -71,8 +71,4 @@ async function get_repo_info(login, repo) {
     console.log('' + err);
     return {};
   }
-}
-
-// get_repo_info('Pavel-Innokentevich-Galanin', 'BrSTU-tex-for-coursework');
-
-module.exports = get_repo_info;
+};

@@ -1,7 +1,11 @@
 const axios = require('axios');
 const jssoup = require('jssoup').default;
 
-module.exports = async function (user) {
+const getRepositoryLanguages = require('./getRepositoryLanguages');
+const getRepositoryInfo = require('./getRepositoryInfo');
+const saveFile = require('./saveFile');
+
+module.exports = async function getReposUser(user) {
   try {
     let array_repos = [];
     let url = `https://github.com/${user}?page=1&tab=repositories`;
@@ -28,23 +32,18 @@ module.exports = async function (user) {
           class: 'wb-break-all',
         });
         const repo_title__a = repo_title__h3.find('a');
-        const repo_title__text = repo_title__a.text.trim();
-        const repo_title__url = repo_title__a.attrs.href;
+
+        const name = repo_title__a.text.trim();
+        const html_url = `https://github.com${repo_title__a.attrs.href}`;
 
         const date__tag = element.find('relative-time');
-        const date__str = date__tag?.attrs?.datetime;
-        const days_ago = Math.round(
-          (Date.now() - Date.parse(date__str)) / 86400000
-        );
+        const updated_at = date__tag?.attrs?.datetime;
 
         array_repos.push({
-          name: repo_title__text,
-          url: repo_title__url,
-          updated: {
-            datetime: date__str,
-            days_ago: days_ago,
-          },
-          author: {
+          name,
+          html_url,
+          updated_at,
+          owner: {
             login: user,
           },
         });
@@ -75,6 +74,24 @@ module.exports = async function (user) {
       }
     }
 
+    console.log(`${user} langs`);
+    for (let i = 0; i < array_repos.length; ++i) {
+      console.log(`${i + 1}/${array_repos.length}`);
+      const login = array_repos[i].owner.login;
+      const repo = array_repos[i].name;
+      const languages = await getRepositoryLanguages(login, repo);
+      array_repos[i].languages = languages;
+    }
+
+    console.log(`${user} more`);
+    for (let i = 0; i < array_repos.length; ++i) {
+      console.log(`${i + 1}/${array_repos.length}`);
+      const login = array_repos[i].owner.login;
+      const repo = array_repos[i].name;
+      const languages = await getRepositoryInfo(login, repo);
+      array_repos[i].more = languages;
+    }
+
     array_repos.sort(function compare(a, b) {
       if (a.name < b.name) {
         return -1;
@@ -84,6 +101,8 @@ module.exports = async function (user) {
       }
       return 0;
     });
+
+    saveFile(`./build/${user}.json`, JSON.stringify(array_repos, null, 2));
 
     return array_repos;
   } catch (err) {
