@@ -20,13 +20,20 @@ module.exports = async function getRepositoryLanguages(login, repo) {
       const a = element?.find('a');
       const a__text = a?.getText('@@@').split('@@@');
       //   console.log(a__text);
-      const couter = Number(a__text[0]);
+      const counter = Number(a__text[0]);
       const language = a__text[1]?.replace('\n', '')?.trim();
       array?.push({
-        couter,
+        counter,
         language,
       });
       //   console.log('=================================');
+    });
+
+    let sum_counter = 0;
+    array.forEach((obj) => (sum_counter += obj.counter));
+
+    array.forEach((obj) => {
+      obj.sum = sum_counter;
     });
 
     array?.sort(function compare(a, b) {
