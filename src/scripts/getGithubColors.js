@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const saveFile = require('./saveFile');
+// const saveFile = require('./saveFile');
 
 module.exports = async function getGithubColors() {
   try {
@@ -9,7 +9,7 @@ module.exports = async function getGithubColors() {
     const response = await axios.get(url);
     const data = response.data;
 
-    saveFile('./build/GithubColors.json', JSON.stringify(data, null, 2));
+    // saveFile('./build/GithubColors.json', JSON.stringify(data, null, 2));
 
     return data;
   } catch (err) {

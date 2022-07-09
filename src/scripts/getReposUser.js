@@ -5,7 +5,7 @@ const getRepositoryLanguages = require('./getRepositoryLanguages');
 const getRepositoryInfo = require('./getRepositoryInfo');
 const saveFile = require('./saveFile');
 
-module.exports = async function getReposUser(user) {
+module.exports = async function getReposUser(user, ColorsObject = {}) {
   try {
     let array_repos = [];
     let url = `https://github.com/${user}?page=1&tab=repositories`;
@@ -79,7 +79,7 @@ module.exports = async function getReposUser(user) {
       console.log(`${i + 1}/${array_repos.length}`);
       const login = array_repos[i].owner.login;
       const repo = array_repos[i].name;
-      const languages = await getRepositoryLanguages(login, repo);
+      const languages = await getRepositoryLanguages(login, repo, ColorsObject);
       array_repos[i].languages = languages;
     }
 
