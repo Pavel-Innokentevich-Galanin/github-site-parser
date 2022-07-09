@@ -10,65 +10,47 @@
       {
         "counter": 36,
         "language": "Markdown",
-        "sum": 103,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 103
       },
       {
         "counter": 24,
         "language": "HTML",
-        "sum": 103,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 103
       },
       {
         "counter": 14,
         "language": "CSV",
-        "sum": 103,
-        "color": "#237346",
-        "url": "https://github.com/trending?l=CSV"
+        "sum": 103
       },
       {
         "counter": 11,
         "language": "Sass",
-        "sum": 103,
-        "color": "#a53b70",
-        "url": "https://github.com/trending?l=Sass"
+        "sum": 103
       },
       {
         "counter": 7,
         "language": "JavaScript",
-        "sum": 103,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 103
       },
       {
         "counter": 5,
         "language": "JSON",
-        "sum": 103,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 103
       },
       {
         "counter": 3,
         "language": "YAML",
-        "sum": 103,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 103
       },
       {
         "counter": 1,
         "language": "SVG",
-        "sum": 103,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
+        "sum": 103
       },
       {
         "counter": 1,
         "language": "ApacheConf",
-        "sum": 103,
-        "color": "#d12127",
-        "url": "https://github.com/trending?l=ApacheConf"
+        "sum": 103
       },
       {
         "counter": 1,
@@ -117,44 +99,32 @@
       {
         "counter": 38,
         "language": "Markdown",
-        "sum": 98,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 98
       },
       {
         "counter": 21,
         "language": "HTML",
-        "sum": 98,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 98
       },
       {
         "counter": 14,
         "language": "JavaScript",
-        "sum": 98,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 98
       },
       {
         "counter": 11,
         "language": "SCSS",
-        "sum": 98,
-        "color": "#c6538c",
-        "url": "https://github.com/trending?l=SCSS"
+        "sum": 98
       },
       {
         "counter": 6,
         "language": "JSON",
-        "sum": 98,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 98
       },
       {
         "counter": 3,
         "language": "YAML",
-        "sum": 98,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 98
       },
       {
         "counter": 2,
@@ -164,23 +134,17 @@
       {
         "counter": 1,
         "language": "Browserslist",
-        "sum": 98,
-        "color": "#ffd539",
-        "url": "https://github.com/trending?l=Browserslist"
+        "sum": 98
       },
       {
         "counter": 1,
         "language": "SVG",
-        "sum": 98,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
+        "sum": 98
       },
       {
         "counter": 1,
         "language": "ApacheConf",
-        "sum": 98,
-        "color": "#d12127",
-        "url": "https://github.com/trending?l=ApacheConf"
+        "sum": 98
       }
     ],
     "more": {
@@ -205,9 +169,7 @@
       {
         "counter": 3,
         "language": "JSON",
-        "sum": 3,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 3
       }
     ],
     "more": {
@@ -232,9 +194,7 @@
       {
         "counter": 1,
         "language": "SVG",
-        "sum": 1,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
+        "sum": 1
       }
     ],
     "more": {

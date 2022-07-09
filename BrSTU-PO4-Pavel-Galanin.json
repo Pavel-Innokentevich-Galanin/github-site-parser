@@ -10,58 +10,42 @@
       {
         "counter": 24,
         "language": "TeX",
-        "sum": 59,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 59
       },
       {
         "counter": 8,
         "language": "XML",
-        "sum": 59,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 59
       },
       {
         "counter": 7,
         "language": "Ignore List",
-        "sum": 59,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 59
       },
       {
         "counter": 5,
         "language": "Markdown",
-        "sum": 59,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 59
       },
       {
         "counter": 4,
         "language": "C++",
-        "sum": 59,
-        "color": "#f34b7d",
-        "url": "https://github.com/trending?l=C++"
+        "sum": 59
       },
       {
         "counter": 4,
         "language": "Git Attributes",
-        "sum": 59,
-        "color": "#F44D27",
-        "url": "https://github.com/trending?l=Git-Attributes"
+        "sum": 59
       },
       {
         "counter": 3,
         "language": "YAML",
-        "sum": 59,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 59
       },
       {
         "counter": 3,
         "language": "Makefile",
-        "sum": 59,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 59
       },
       {
         "counter": 1,
@@ -91,30 +75,22 @@
       {
         "counter": 37,
         "language": "C",
-        "sum": 119,
-        "color": "#555555",
-        "url": "https://github.com/trending?l=C"
+        "sum": 119
       },
       {
         "counter": 35,
         "language": "TeX",
-        "sum": 119,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 119
       },
       {
         "counter": 20,
         "language": "Markdown",
-        "sum": 119,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 119
       },
       {
         "counter": 10,
         "language": "Ignore List",
-        "sum": 119,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 119
       },
       {
         "counter": 7,
@@ -124,16 +100,12 @@
       {
         "counter": 5,
         "language": "YAML",
-        "sum": 119,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 119
       },
       {
         "counter": 5,
         "language": "CMake",
-        "sum": 119,
-        "color": "#DA3434",
-        "url": "https://github.com/trending?l=CMake"
+        "sum": 119
       }
     ],
     "more": {
@@ -158,51 +130,37 @@
       {
         "counter": 29,
         "language": "C",
-        "sum": 58,
-        "color": "#555555",
-        "url": "https://github.com/trending?l=C"
+        "sum": 58
       },
       {
         "counter": 21,
         "language": "TeX",
-        "sum": 58,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 58
       },
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 58,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 58
       },
       {
         "counter": 2,
         "language": "Ignore List",
-        "sum": 58,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 58
       },
       {
         "counter": 2,
         "language": "Makefile",
-        "sum": 58,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 58
       },
       {
         "counter": 1,
         "language": "Objective-C",
-        "sum": 58,
-        "color": "#438eff",
-        "url": "https://github.com/trending?l=Objective-C"
+        "sum": 58
       },
       {
         "counter": 1,
         "language": "YAML",
-        "sum": 58,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 58
       }
     ],
     "more": {
@@ -227,23 +185,17 @@
       {
         "counter": 45,
         "language": "Python",
-        "sum": 74,
-        "color": "#3572A5",
-        "url": "https://github.com/trending?l=Python"
+        "sum": 74
       },
       {
         "counter": 14,
         "language": "C++",
-        "sum": 74,
-        "color": "#f34b7d",
-        "url": "https://github.com/trending?l=C++"
+        "sum": 74
       },
       {
         "counter": 7,
         "language": "Ignore List",
-        "sum": 74,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 74
       },
       {
         "counter": 5,
@@ -253,16 +205,12 @@
       {
         "counter": 2,
         "language": "CMake",
-        "sum": 74,
-        "color": "#DA3434",
-        "url": "https://github.com/trending?l=CMake"
+        "sum": 74
       },
       {
         "counter": 1,
         "language": "C",
-        "sum": 74,
-        "color": "#555555",
-        "url": "https://github.com/trending?l=C"
+        "sum": 74
       }
     ],
     "more": {
@@ -287,30 +235,22 @@
       {
         "counter": 132,
         "language": "XML",
-        "sum": 305,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 305
       },
       {
         "counter": 116,
         "language": "C#",
-        "sum": 305,
-        "color": "#178600",
-        "url": "https://github.com/trending?l=Csharp"
+        "sum": 305
       },
       {
         "counter": 28,
         "language": "Git Attributes",
-        "sum": 305,
-        "color": "#F44D27",
-        "url": "https://github.com/trending?l=Git-Attributes"
+        "sum": 305
       },
       {
         "counter": 28,
         "language": "Ignore List",
-        "sum": 305,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 305
       },
       {
         "counter": 1,
@@ -340,58 +280,42 @@
       {
         "counter": 29,
         "language": "Python",
-        "sum": 85,
-        "color": "#3572A5",
-        "url": "https://github.com/trending?l=Python"
+        "sum": 85
       },
       {
         "counter": 24,
         "language": "C++",
-        "sum": 85,
-        "color": "#f34b7d",
-        "url": "https://github.com/trending?l=C++"
+        "sum": 85
       },
       {
         "counter": 12,
         "language": "Markdown",
-        "sum": 85,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 85
       },
       {
         "counter": 5,
         "language": "CSV",
-        "sum": 85,
-        "color": "#237346",
-        "url": "https://github.com/trending?l=CSV"
+        "sum": 85
       },
       {
         "counter": 5,
         "language": "Makefile",
-        "sum": 85,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 85
       },
       {
         "counter": 5,
         "language": "Ignore List",
-        "sum": 85,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 85
       },
       {
         "counter": 3,
         "language": "CMake",
-        "sum": 85,
-        "color": "#DA3434",
-        "url": "https://github.com/trending?l=CMake"
+        "sum": 85
       },
       {
         "counter": 1,
         "language": "Jupyter Notebook",
-        "sum": 85,
-        "color": "#DA5B0B",
-        "url": "https://github.com/trending?l=Jupyter-Notebook"
+        "sum": 85
       },
       {
         "counter": 1,
@@ -421,37 +345,27 @@
       {
         "counter": 21,
         "language": "PHP",
-        "sum": 30,
-        "color": "#4F5D95",
-        "url": "https://github.com/trending?l=PHP"
+        "sum": 30
       },
       {
         "counter": 3,
         "language": "CSS",
-        "sum": 30,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
+        "sum": 30
       },
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 30,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 30
       },
       {
         "counter": 2,
         "language": "YAML",
-        "sum": 30,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 30
       },
       {
         "counter": 1,
         "language": "Hack",
-        "sum": 30,
-        "color": "#878787",
-        "url": "https://github.com/trending?l=Hack"
+        "sum": 30
       },
       {
         "counter": 1,
@@ -481,65 +395,47 @@
       {
         "counter": 29,
         "language": "TeX",
-        "sum": 54,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 54
       },
       {
         "counter": 18,
         "language": "PHP",
-        "sum": 54,
-        "color": "#4F5D95",
-        "url": "https://github.com/trending?l=PHP"
+        "sum": 54
       },
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 54,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
-      },
-      {
-        "counter": 1,
-        "language": "YAML",
-        "sum": 54,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
-      },
-      {
-        "counter": 1,
-        "language": "ApacheConf",
-        "sum": 54,
-        "color": "#d12127",
-        "url": "https://github.com/trending?l=ApacheConf"
-      },
-      {
-        "counter": 1,
-        "language": "Hack",
-        "sum": 54,
-        "color": "#878787",
-        "url": "https://github.com/trending?l=Hack"
-      },
-      {
-        "counter": 1,
-        "language": "Ignore List",
-        "sum": 54,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 54
       },
       {
         "counter": 1,
         "language": "Makefile",
-        "sum": 54,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "YAML",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "ApacheConf",
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "Hack",
+        "sum": 54
       },
       {
         "counter": 1,
         "language": "CSS",
-        "sum": 54,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
+        "sum": 54
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 54
       }
     ],
     "more": {
@@ -564,51 +460,37 @@
       {
         "counter": 82,
         "language": "TeX",
-        "sum": 169,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 169
       },
       {
         "counter": 27,
         "language": "Markdown",
-        "sum": 169,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 169
       },
       {
         "counter": 18,
         "language": "Ignore List",
-        "sum": 169,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 169
       },
       {
         "counter": 17,
         "language": "C++",
-        "sum": 169,
-        "color": "#f34b7d",
-        "url": "https://github.com/trending?l=C++"
+        "sum": 169
       },
       {
         "counter": 10,
         "language": "YAML",
-        "sum": 169,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 169
       },
       {
         "counter": 8,
         "language": "CMake",
-        "sum": 169,
-        "color": "#DA3434",
-        "url": "https://github.com/trending?l=CMake"
+        "sum": 169
       },
       {
         "counter": 5,
         "language": "Makefile",
-        "sum": 169,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 169
       },
       {
         "counter": 2,
@@ -638,65 +520,47 @@
       {
         "counter": 88,
         "language": "TeX",
-        "sum": 183,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 183
       },
       {
         "counter": 26,
         "language": "C",
-        "sum": 183,
-        "color": "#555555",
-        "url": "https://github.com/trending?l=C"
+        "sum": 183
       },
       {
         "counter": 24,
         "language": "Markdown",
-        "sum": 183,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 183
       },
       {
         "counter": 19,
         "language": "Ignore List",
-        "sum": 183,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 183
       },
       {
         "counter": 15,
         "language": "Makefile",
-        "sum": 183,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 183
       },
       {
         "counter": 7,
         "language": "YAML",
-        "sum": 183,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 183
       },
       {
         "counter": 1,
         "language": "HTML",
-        "sum": 183,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 183
       },
       {
         "counter": 1,
         "language": "XML",
-        "sum": 183,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 183
       },
       {
         "counter": 1,
         "language": "Shell",
-        "sum": 183,
-        "color": "#89e051",
-        "url": "https://github.com/trending?l=Shell"
+        "sum": 183
       },
       {
         "counter": 1,
@@ -726,30 +590,27 @@
       {
         "counter": 22,
         "language": "TeX",
-        "sum": 30,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 30
       },
       {
         "counter": 3,
         "language": "Python",
-        "sum": 30,
-        "color": "#3572A5",
-        "url": "https://github.com/trending?l=Python"
+        "sum": 30
       },
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 30,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 30
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 30
       },
       {
         "counter": 1,
         "language": "YAML",
-        "sum": 30,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 30
       },
       {
         "counter": 1,
@@ -759,16 +620,7 @@
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 30,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 1,
-        "language": "Makefile",
-        "sum": 30,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 30
       }
     ],
     "more": {
@@ -793,37 +645,27 @@
       {
         "counter": 33,
         "language": "C++",
-        "sum": 138,
-        "color": "#f34b7d",
-        "url": "https://github.com/trending?l=C++"
+        "sum": 138
       },
       {
         "counter": 21,
         "language": "TeX",
-        "sum": 138,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 138
       },
       {
         "counter": 16,
         "language": "Markdown",
-        "sum": 138,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 138
       },
       {
         "counter": 16,
         "language": "XML",
-        "sum": 138,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 138
       },
       {
         "counter": 15,
         "language": "C",
-        "sum": 138,
-        "color": "#555555",
-        "url": "https://github.com/trending?l=C"
+        "sum": 138
       },
       {
         "counter": 13,
@@ -833,30 +675,22 @@
       {
         "counter": 8,
         "language": "HTML",
-        "sum": 138,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 138
       },
       {
         "counter": 7,
         "language": "xBase",
-        "sum": 138,
-        "color": "#403a40",
-        "url": "https://github.com/trending?l=xBase"
+        "sum": 138
       },
       {
         "counter": 6,
         "language": "Ignore List",
-        "sum": 138,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 138
       },
       {
         "counter": 3,
         "language": "Python",
-        "sum": 138,
-        "color": "#3572A5",
-        "url": "https://github.com/trending?l=Python"
+        "sum": 138
       }
     ],
     "more": {
@@ -881,44 +715,32 @@
       {
         "counter": 60,
         "language": "C++",
-        "sum": 140,
-        "color": "#f34b7d",
-        "url": "https://github.com/trending?l=C++"
+        "sum": 140
       },
       {
         "counter": 27,
         "language": "QMake",
-        "sum": 140,
-        "color": null,
-        "url": "https://github.com/trending?l=QMake"
+        "sum": 140
       },
       {
         "counter": 19,
         "language": "XML",
-        "sum": 140,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 140
       },
       {
         "counter": 15,
         "language": "Ignore List",
-        "sum": 140,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 140
       },
       {
         "counter": 8,
         "language": "C#",
-        "sum": 140,
-        "color": "#178600",
-        "url": "https://github.com/trending?l=Csharp"
+        "sum": 140
       },
       {
         "counter": 5,
         "language": "TeX",
-        "sum": 140,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 140
       },
       {
         "counter": 3,
@@ -927,24 +749,18 @@
       },
       {
         "counter": 1,
-        "language": "Makefile",
-        "sum": 140,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
-      },
-      {
-        "counter": 1,
         "language": "YAML",
-        "sum": 140,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 140
       },
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 140,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 140
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 140
       }
     ],
     "more": {
@@ -1019,30 +835,22 @@
       {
         "counter": 6,
         "language": "XML",
-        "sum": 16,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 16
       },
       {
         "counter": 3,
         "language": "C++",
-        "sum": 16,
-        "color": "#f34b7d",
-        "url": "https://github.com/trending?l=C++"
+        "sum": 16
       },
       {
         "counter": 3,
         "language": "Git Attributes",
-        "sum": 16,
-        "color": "#F44D27",
-        "url": "https://github.com/trending?l=Git-Attributes"
+        "sum": 16
       },
       {
         "counter": 3,
         "language": "Ignore List",
-        "sum": 16,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 16
       },
       {
         "counter": 1,
@@ -1072,9 +880,7 @@
       {
         "counter": 2,
         "language": "Ignore List",
-        "sum": 3,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 3
       },
       {
         "counter": 1,
@@ -1109,9 +915,7 @@
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 2,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 2
       }
     ],
     "more": {
@@ -1135,14 +939,12 @@
     "languages": [
       {
         "counter": 1,
-        "language": "Ignore List",
-        "sum": 2,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "language": "Text",
+        "sum": 2
       },
       {
         "counter": 1,
-        "language": "Text",
+        "language": "Ignore List",
         "sum": 2
       }
     ],
@@ -1173,9 +975,7 @@
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 2,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 2
       }
     ],
     "more": {
@@ -1205,9 +1005,7 @@
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 2,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 2
       }
     ],
     "more": {
@@ -1251,23 +1049,22 @@
       {
         "counter": 43,
         "language": "PHP",
-        "sum": 126,
-        "color": "#4F5D95",
-        "url": "https://github.com/trending?l=PHP"
+        "sum": 126
       },
       {
         "counter": 20,
         "language": "TeX",
-        "sum": 126,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 126
       },
       {
         "counter": 12,
         "language": "JavaScript",
-        "sum": 126,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 126
+      },
+      {
+        "counter": 10,
+        "language": "Ignore List",
+        "sum": 126
       },
       {
         "counter": 10,
@@ -1275,46 +1072,29 @@
         "sum": 126
       },
       {
-        "counter": 10,
-        "language": "Ignore List",
-        "sum": 126,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
         "counter": 9,
         "language": "Makefile",
-        "sum": 126,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 126
       },
       {
         "counter": 8,
         "language": "YAML",
-        "sum": 126,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 126
       },
       {
         "counter": 6,
         "language": "Shell",
-        "sum": 126,
-        "color": "#89e051",
-        "url": "https://github.com/trending?l=Shell"
+        "sum": 126
       },
       {
         "counter": 4,
         "language": "Markdown",
-        "sum": 126,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 126
       },
       {
         "counter": 4,
         "language": "SQL",
-        "sum": 126,
-        "color": "#e38c00",
-        "url": "https://github.com/trending?l=SQL"
+        "sum": 126
       }
     ],
     "more": {
@@ -1339,30 +1119,22 @@
       {
         "counter": 98,
         "language": "JavaScript",
-        "sum": 179,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 179
       },
       {
         "counter": 21,
         "language": "CSS",
-        "sum": 179,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
+        "sum": 179
       },
       {
         "counter": 20,
         "language": "TeX",
-        "sum": 179,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 179
       },
       {
         "counter": 14,
         "language": "JSON",
-        "sum": 179,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 179
       },
       {
         "counter": 9,
@@ -1372,37 +1144,27 @@
       {
         "counter": 6,
         "language": "Ignore List",
-        "sum": 179,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 179
       },
       {
         "counter": 5,
         "language": "SQL",
-        "sum": 179,
-        "color": "#e38c00",
-        "url": "https://github.com/trending?l=SQL"
+        "sum": 179
       },
       {
         "counter": 2,
         "language": "Browserslist",
-        "sum": 179,
-        "color": "#ffd539",
-        "url": "https://github.com/trending?l=Browserslist"
+        "sum": 179
       },
       {
         "counter": 2,
         "language": "HTML",
-        "sum": 179,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 179
       },
       {
         "counter": 2,
         "language": "ApacheConf",
-        "sum": 179,
-        "color": "#d12127",
-        "url": "https://github.com/trending?l=ApacheConf"
+        "sum": 179
       }
     ],
     "more": {
@@ -1427,9 +1189,7 @@
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 4,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 4
       },
       {
         "counter": 1,
@@ -1439,16 +1199,12 @@
       {
         "counter": 1,
         "language": "Ruby",
-        "sum": 4,
-        "color": "#701516",
-        "url": "https://github.com/trending?l=Ruby"
+        "sum": 4
       },
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 4,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 4
       }
     ],
     "more": {
@@ -1473,65 +1229,47 @@
       {
         "counter": 112,
         "language": "XML",
-        "sum": 348,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 348
       },
       {
         "counter": 77,
         "language": "TeX",
-        "sum": 348,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 348
       },
       {
         "counter": 38,
         "language": "Java",
-        "sum": 348,
-        "color": "#b07219",
-        "url": "https://github.com/trending?l=Java"
+        "sum": 348
       },
       {
         "counter": 31,
         "language": "Ignore List",
-        "sum": 348,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 348
       },
       {
         "counter": 30,
         "language": "Gradle",
-        "sum": 348,
-        "color": "#02303a",
-        "url": "https://github.com/trending?l=Gradle"
+        "sum": 348
       },
       {
         "counter": 20,
         "language": "Java Properties",
-        "sum": 348,
-        "color": "#2A6277",
-        "url": "https://github.com/trending?l=Java-Properties"
+        "sum": 348
       },
       {
         "counter": 10,
         "language": "Markdown",
-        "sum": 348,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 348
       },
       {
         "counter": 10,
         "language": "Batchfile",
-        "sum": 348,
-        "color": "#C1F12E",
-        "url": "https://github.com/trending?l=Batchfile"
+        "sum": 348
       },
       {
         "counter": 10,
         "language": "Shell",
-        "sum": 348,
-        "color": "#89e051",
-        "url": "https://github.com/trending?l=Shell"
+        "sum": 348
       },
       {
         "counter": 10,
@@ -1561,44 +1299,32 @@
       {
         "counter": 81,
         "language": "XML",
-        "sum": 226,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 226
       },
       {
         "counter": 78,
         "language": "TeX",
-        "sum": 226,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 226
       },
       {
         "counter": 28,
         "language": "Java",
-        "sum": 226,
-        "color": "#b07219",
-        "url": "https://github.com/trending?l=Java"
+        "sum": 226
       },
       {
         "counter": 18,
         "language": "Ignore List",
-        "sum": 226,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 226
       },
       {
         "counter": 6,
         "language": "YAML",
-        "sum": 226,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 226
       },
       {
         "counter": 6,
         "language": "Makefile",
-        "sum": 226,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 226
       },
       {
         "counter": 3,
@@ -1613,16 +1339,12 @@
       {
         "counter": 2,
         "language": "HTML",
-        "sum": 226,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 226
       },
       {
         "counter": 1,
         "language": "INI",
-        "sum": 226,
-        "color": "#d1dbe0",
-        "url": "https://github.com/trending?l=INI"
+        "sum": 226
       }
     ],
     "more": {
@@ -1647,16 +1369,12 @@
       {
         "counter": 17,
         "language": "TeX",
-        "sum": 21,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 21
       },
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 21,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 21
       },
       {
         "counter": 1,
@@ -1666,16 +1384,12 @@
       {
         "counter": 1,
         "language": "YAML",
-        "sum": 21,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 21
       },
       {
         "counter": 1,
         "language": "Makefile",
-        "sum": 21,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 21
       }
     ],
     "more": {
@@ -1700,51 +1414,37 @@
       {
         "counter": 17,
         "language": "JavaScript",
-        "sum": 51,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 51
       },
       {
         "counter": 13,
         "language": "TeX",
-        "sum": 51,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 51
       },
       {
         "counter": 5,
         "language": "CSS",
-        "sum": 51,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
+        "sum": 51
       },
       {
         "counter": 4,
         "language": "JSON",
-        "sum": 51,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 51
       },
       {
         "counter": 4,
         "language": "Ignore List",
-        "sum": 51,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 51
       },
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 51,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 51
       },
       {
         "counter": 2,
         "language": "YAML",
-        "sum": 51,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 51
       },
       {
         "counter": 2,
@@ -1754,16 +1454,12 @@
       {
         "counter": 1,
         "language": "HTML",
-        "sum": 51,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 51
       },
       {
         "counter": 1,
         "language": "Makefile",
-        "sum": 51,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 51
       }
     ],
     "more": {
@@ -1788,56 +1484,42 @@
       {
         "counter": 12,
         "language": "TeX",
-        "sum": 25,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 25
       },
       {
         "counter": 3,
         "language": "SQL",
-        "sum": 25,
-        "color": "#e38c00",
-        "url": "https://github.com/trending?l=SQL"
+        "sum": 25
       },
       {
         "counter": 3,
         "language": "Ignore List",
-        "sum": 25,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 25
       },
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 25,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 25
       },
       {
         "counter": 2,
         "language": "YAML",
-        "sum": 25,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
-      },
-      {
-        "counter": 1,
-        "language": "Shell",
-        "sum": 25,
-        "color": "#89e051",
-        "url": "https://github.com/trending?l=Shell"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
         "sum": 25
       },
       {
         "counter": 1,
         "language": "Makefile",
-        "sum": 25,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 25
+      },
+      {
+        "counter": 1,
+        "language": "Shell",
+        "sum": 25
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 25
       }
     ],
     "more": {

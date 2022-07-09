@@ -10,42 +10,32 @@
       {
         "counter": 3,
         "language": "JSON",
-        "sum": 9,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 9
       },
       {
         "counter": 2,
         "language": "JavaScript",
-        "sum": 9,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 9
       },
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 9,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 9
       },
       {
         "counter": 1,
         "language": "Shell",
-        "sum": 9,
-        "color": "#89e051",
-        "url": "https://github.com/trending?l=Shell"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
         "sum": 9
       },
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 9,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 9
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 9
       }
     ],
     "more": {
@@ -70,35 +60,27 @@
       {
         "counter": 9,
         "language": "Markdown",
-        "sum": 27,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 27
       },
       {
         "counter": 8,
         "language": "C++",
-        "sum": 27,
-        "color": "#f34b7d",
-        "url": "https://github.com/trending?l=C++"
+        "sum": 27
       },
       {
         "counter": 8,
         "language": "XML",
-        "sum": 27,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
         "sum": 27
       },
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 27,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 27
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 27
       }
     ],
     "more": {
@@ -123,30 +105,27 @@
       {
         "counter": 28,
         "language": "TeX",
-        "sum": 35,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
+        "sum": 35
       },
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 35,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 35
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 35
       },
       {
         "counter": 1,
         "language": "YAML",
-        "sum": 35,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 35
       },
       {
         "counter": 1,
         "language": "Java",
-        "sum": 35,
-        "color": "#b07219",
-        "url": "https://github.com/trending?l=Java"
+        "sum": 35
       },
       {
         "counter": 1,
@@ -156,16 +135,7 @@
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 35,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 1,
-        "language": "Makefile",
-        "sum": 35,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 35
       }
     ],
     "more": {
@@ -190,9 +160,7 @@
       {
         "counter": 3,
         "language": "JSON",
-        "sum": 9,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 9
       },
       {
         "counter": 2,
@@ -202,23 +170,17 @@
       {
         "counter": 2,
         "language": "JavaScript",
-        "sum": 9,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 9
       },
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 9,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 9
       },
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 9,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 9
       }
     ],
     "more": {
@@ -243,44 +205,32 @@
       {
         "counter": 47,
         "language": "Sass",
-        "sum": 101,
-        "color": "#a53b70",
-        "url": "https://github.com/trending?l=Sass"
+        "sum": 101
       },
       {
         "counter": 33,
         "language": "HTML",
-        "sum": 101,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 101
       },
       {
         "counter": 6,
         "language": "JSON",
-        "sum": 101,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 101
       },
       {
         "counter": 4,
         "language": "Markdown",
-        "sum": 101,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
-      },
-      {
-        "counter": 3,
-        "language": "YAML",
-        "sum": 101,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 101
       },
       {
         "counter": 3,
         "language": "SVG",
-        "sum": 101,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
+        "sum": 101
+      },
+      {
+        "counter": 3,
+        "language": "YAML",
+        "sum": 101
       },
       {
         "counter": 2,
@@ -290,23 +240,17 @@
       {
         "counter": 1,
         "language": "XML",
-        "sum": 101,
-        "color": "#0060ac",
-        "url": "https://github.com/trending?l=XML"
+        "sum": 101
       },
       {
         "counter": 1,
         "language": "CSS",
-        "sum": 101,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
+        "sum": 101
       },
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 101,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 101
       }
     ],
     "more": {
@@ -314,6 +258,31 @@
       "license": {
         "name": "GPL-3.0 license",
         "url": "https://github.com/Pavel-Innokentevich-Galanin/IT-Shark-pro_web-school/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0
+    }
+  },
+  {
+    "name": "Pavel-Innokentevich-Galanin",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/Pavel-Innokentevich-Galanin",
+    "updated_at": "2022-07-09T14:00:37Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 1
+      }
+    ],
+    "more": {
+      "description": "",
+      "license": {
+        "name": "",
+        "url": ""
       },
       "stars": 0,
       "watchers": 1,
@@ -331,44 +300,32 @@
       {
         "counter": 10,
         "language": "JavaScript",
-        "sum": 22,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 22
       },
       {
         "counter": 4,
         "language": "CSS",
-        "sum": 22,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
+        "sum": 22
       },
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 22,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 22
       },
       {
         "counter": 2,
         "language": "JSON",
-        "sum": 22,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
-      },
-      {
-        "counter": 1,
-        "language": "JSON with Comments",
-        "sum": 22,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON-with-Comments"
+        "sum": 22
       },
       {
         "counter": 1,
         "language": "SVG",
-        "sum": 22,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
+        "sum": 22
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 22
       },
       {
         "counter": 1,
@@ -377,10 +334,8 @@
       },
       {
         "counter": 1,
-        "language": "Ignore List",
-        "sum": 22,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "language": "JSON with Comments",
+        "sum": 22
       }
     ],
     "more": {
@@ -395,25 +350,6 @@
     }
   },
   {
-    "name": "ToDoCalendar_frontend",
-    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/ToDoCalendar_frontend",
-    "updated_at": "2022-06-30T00:41:11Z",
-    "owner": {
-      "login": "Pavel-Innokentevich-Galanin"
-    },
-    "languages": [],
-    "more": {
-      "description": "React JS",
-      "license": {
-        "name": "GPL-3.0 license",
-        "url": "https://github.com/Pavel-Innokentevich-Galanin/ToDoCalendar_frontend/blob/dev/LICENSE"
-      },
-      "stars": 0,
-      "watchers": 0,
-      "forks": 1
-    }
-  },
-  {
     "name": "docker-compose-nginx-php",
     "html_url": "https://github.com/Pavel-Innokentevich-Galanin/docker-compose-nginx-php",
     "updated_at": "2021-08-08T14:54:58Z",
@@ -424,23 +360,17 @@
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 5,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 5
       },
       {
         "counter": 1,
         "language": "PHP",
-        "sum": 5,
-        "color": "#4F5D95",
-        "url": "https://github.com/trending?l=PHP"
+        "sum": 5
       },
       {
         "counter": 1,
         "language": "HTML",
-        "sum": 5,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 5
       },
       {
         "counter": 1,
@@ -450,9 +380,7 @@
       {
         "counter": 1,
         "language": "YAML",
-        "sum": 5,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
+        "sum": 5
       }
     ],
     "more": {
@@ -469,7 +397,7 @@
   {
     "name": "github-site-parser",
     "html_url": "https://github.com/Pavel-Innokentevich-Galanin/github-site-parser",
-    "updated_at": "2022-07-02T19:00:55Z",
+    "updated_at": "2022-07-02T22:24:01Z",
     "owner": {
       "login": "Pavel-Innokentevich-Galanin"
     },
@@ -477,23 +405,17 @@
       {
         "counter": 7,
         "language": "JavaScript",
-        "sum": 13,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 13
       },
       {
         "counter": 3,
         "language": "JSON",
-        "sum": 13,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 13
       },
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 13,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 13
       },
       {
         "counter": 1,
@@ -503,9 +425,7 @@
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 13,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 13
       }
     ],
     "more": {
@@ -530,16 +450,12 @@
       {
         "counter": 1,
         "language": "HTML",
-        "sum": 4,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 4
       },
       {
         "counter": 1,
         "language": "CSS",
-        "sum": 4,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
+        "sum": 4
       },
       {
         "counter": 1,
@@ -549,9 +465,7 @@
       {
         "counter": 1,
         "language": "JavaScript",
-        "sum": 4,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 4
       }
     ],
     "more": {
@@ -576,16 +490,12 @@
       {
         "counter": 8,
         "language": "JavaScript",
-        "sum": 34,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
+        "sum": 34
       },
       {
         "counter": 7,
         "language": "JSON",
-        "sum": 34,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
+        "sum": 34
       },
       {
         "counter": 7,
@@ -595,44 +505,32 @@
       {
         "counter": 4,
         "language": "Ignore List",
-        "sum": 34,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "sum": 34
       },
       {
         "counter": 2,
         "language": "Browserslist",
-        "sum": 34,
-        "color": "#ffd539",
-        "url": "https://github.com/trending?l=Browserslist"
+        "sum": 34
       },
       {
         "counter": 2,
         "language": "HTML",
-        "sum": 34,
-        "color": "#e34c26",
-        "url": "https://github.com/trending?l=HTML"
+        "sum": 34
       },
       {
         "counter": 2,
         "language": "CSS",
-        "sum": 34,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
+        "sum": 34
       },
       {
         "counter": 1,
         "language": "Markdown",
-        "sum": 34,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "sum": 34
       },
       {
         "counter": 1,
         "language": "Makefile",
-        "sum": 34,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "sum": 34
       }
     ],
     "more": {
