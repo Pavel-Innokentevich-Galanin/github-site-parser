@@ -10,7 +10,9 @@
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 3
+        "sum": 3,
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
       },
       {
         "counter": 1,
@@ -40,37 +42,44 @@
       {
         "counter": 36,
         "language": "Python",
-        "sum": 50
+        "sum": 50,
+        "color": "#3572A5",
+        "url": "https://github.com/trending?l=Python"
       },
       {
         "counter": 3,
         "language": "YAML",
-        "sum": 50
-      },
-      {
-        "counter": 2,
-        "language": "JSON",
-        "sum": 50
-      },
-      {
-        "counter": 2,
-        "language": "INI",
-        "sum": 50
-      },
-      {
-        "counter": 2,
-        "language": "TOML",
-        "sum": 50
+        "sum": 50,
+        "color": "#cb171e",
+        "url": "https://github.com/trending?l=YAML"
       },
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 50
+        "sum": 50,
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
       },
       {
-        "counter": 1,
-        "language": "Dockerfile",
-        "sum": 50
+        "counter": 2,
+        "language": "JSON",
+        "sum": 50,
+        "color": "#292929",
+        "url": "https://github.com/trending?l=JSON"
+      },
+      {
+        "counter": 2,
+        "language": "INI",
+        "sum": 50,
+        "color": "#d1dbe0",
+        "url": "https://github.com/trending?l=INI"
+      },
+      {
+        "counter": 2,
+        "language": "TOML",
+        "sum": 50,
+        "color": "#9c4221",
+        "url": "https://github.com/trending?l=TOML"
       },
       {
         "counter": 1,
@@ -80,7 +89,16 @@
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 50
+        "sum": 50,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
+      },
+      {
+        "counter": 1,
+        "language": "Dockerfile",
+        "sum": 50,
+        "color": "#384d54",
+        "url": "https://github.com/trending?l=Dockerfile"
       }
     ],
     "more": {
@@ -105,37 +123,51 @@
       {
         "counter": 26,
         "language": "JavaScript",
-        "sum": 72
+        "sum": 72,
+        "color": "#f1e05a",
+        "url": "https://github.com/trending?l=JavaScript"
       },
       {
         "counter": 15,
         "language": "CSS",
-        "sum": 72
+        "sum": 72,
+        "color": "#563d7c",
+        "url": "https://github.com/trending?l=CSS"
       },
       {
         "counter": 9,
         "language": "Markdown",
-        "sum": 72
+        "sum": 72,
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
       },
       {
         "counter": 7,
         "language": "SVG",
-        "sum": 72
+        "sum": 72,
+        "color": "#ff9900",
+        "url": "https://github.com/trending?l=SVG"
       },
       {
         "counter": 6,
         "language": "JSON",
-        "sum": 72
+        "sum": 72,
+        "color": "#292929",
+        "url": "https://github.com/trending?l=JSON"
       },
       {
         "counter": 3,
         "language": "Ignore List",
-        "sum": 72
+        "sum": 72,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       },
       {
         "counter": 2,
         "language": "YAML",
-        "sum": 72
+        "sum": 72,
+        "color": "#cb171e",
+        "url": "https://github.com/trending?l=YAML"
       },
       {
         "counter": 2,
@@ -145,12 +177,16 @@
       {
         "counter": 1,
         "language": "Browserslist",
-        "sum": 72
+        "sum": 72,
+        "color": "#ffd539",
+        "url": "https://github.com/trending?l=Browserslist"
       },
       {
         "counter": 1,
         "language": "HTML",
-        "sum": 72
+        "sum": 72,
+        "color": "#e34c26",
+        "url": "https://github.com/trending?l=HTML"
       }
     ],
     "more": {
@@ -175,21 +211,27 @@
       {
         "counter": 2,
         "language": "Markdown",
-        "sum": 5
-      },
-      {
-        "counter": 1,
-        "language": "Text",
-        "sum": 5
+        "sum": 5,
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
       },
       {
         "counter": 1,
         "language": "Ignore List",
-        "sum": 5
+        "sum": 5,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       },
       {
         "counter": 1,
         "language": "YAML",
+        "sum": 5,
+        "color": "#cb171e",
+        "url": "https://github.com/trending?l=YAML"
+      },
+      {
+        "counter": 1,
+        "language": "Text",
         "sum": 5
       }
     ],
