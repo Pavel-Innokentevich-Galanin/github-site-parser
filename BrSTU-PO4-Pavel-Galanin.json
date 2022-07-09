@@ -51,17 +51,17 @@
       },
       {
         "counter": 3,
-        "language": "YAML",
-        "sum": 59,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
-      },
-      {
-        "counter": 3,
         "language": "Makefile",
         "sum": 59,
         "color": "#427819",
         "url": "https://github.com/trending?l=Makefile"
+      },
+      {
+        "counter": 3,
+        "language": "YAML",
+        "sum": 59,
+        "color": "#cb171e",
+        "url": "https://github.com/trending?l=YAML"
       },
       {
         "counter": 1,
@@ -448,15 +448,15 @@
       },
       {
         "counter": 1,
+        "language": "Text",
+        "sum": 30
+      },
+      {
+        "counter": 1,
         "language": "Hack",
         "sum": 30,
         "color": "#878787",
         "url": "https://github.com/trending?l=Hack"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
-        "sum": 30
       }
     ],
     "more": {
@@ -501,13 +501,6 @@
       },
       {
         "counter": 1,
-        "language": "CSS",
-        "sum": 54,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
-      },
-      {
-        "counter": 1,
         "language": "YAML",
         "sum": 54,
         "color": "#cb171e",
@@ -522,13 +515,6 @@
       },
       {
         "counter": 1,
-        "language": "Makefile",
-        "sum": 54,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
-      },
-      {
-        "counter": 1,
         "language": "Ignore List",
         "sum": 54,
         "color": "#000000",
@@ -540,6 +526,20 @@
         "sum": 54,
         "color": "#878787",
         "url": "https://github.com/trending?l=Hack"
+      },
+      {
+        "counter": 1,
+        "language": "CSS",
+        "sum": 54,
+        "color": "#563d7c",
+        "url": "https://github.com/trending?l=CSS"
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 54,
+        "color": "#427819",
+        "url": "https://github.com/trending?l=Makefile"
       }
     ],
     "more": {
@@ -758,17 +758,17 @@
       },
       {
         "counter": 1,
-        "language": "Makefile",
-        "sum": 30,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
-      },
-      {
-        "counter": 1,
         "language": "Ignore List",
         "sum": 30,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
+      },
+      {
+        "counter": 1,
+        "language": "Makefile",
+        "sum": 30,
+        "color": "#427819",
+        "url": "https://github.com/trending?l=Makefile"
       }
     ],
     "more": {
@@ -927,6 +927,13 @@
       },
       {
         "counter": 1,
+        "language": "Makefile",
+        "sum": 140,
+        "color": "#427819",
+        "url": "https://github.com/trending?l=Makefile"
+      },
+      {
+        "counter": 1,
         "language": "YAML",
         "sum": 140,
         "color": "#cb171e",
@@ -938,13 +945,6 @@
         "sum": 140,
         "color": "#083fa1",
         "url": "https://github.com/trending?l=Markdown"
-      },
-      {
-        "counter": 1,
-        "language": "Makefile",
-        "sum": 140,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
       }
     ],
     "more": {
@@ -1103,15 +1103,15 @@
     "languages": [
       {
         "counter": 1,
+        "language": "Text",
+        "sum": 2
+      },
+      {
+        "counter": 1,
         "language": "Ignore List",
         "sum": 2,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
-        "sum": 2
       }
     ],
     "more": {
@@ -1433,8 +1433,10 @@
       },
       {
         "counter": 1,
-        "language": "Text",
-        "sum": 4
+        "language": "Ignore List",
+        "sum": 4,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       },
       {
         "counter": 1,
@@ -1445,10 +1447,8 @@
       },
       {
         "counter": 1,
-        "language": "Ignore List",
-        "sum": 4,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "language": "Text",
+        "sum": 4
       }
     ],
     "more": {
@@ -1653,10 +1653,10 @@
       },
       {
         "counter": 1,
-        "language": "Ignore List",
+        "language": "Makefile",
         "sum": 21,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "color": "#427819",
+        "url": "https://github.com/trending?l=Makefile"
       },
       {
         "counter": 1,
@@ -1665,17 +1665,17 @@
       },
       {
         "counter": 1,
+        "language": "Ignore List",
+        "sum": 21,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
+      },
+      {
+        "counter": 1,
         "language": "YAML",
         "sum": 21,
         "color": "#cb171e",
         "url": "https://github.com/trending?l=YAML"
-      },
-      {
-        "counter": 1,
-        "language": "Makefile",
-        "sum": 21,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
       }
     ],
     "more": {
@@ -1720,17 +1720,17 @@
       },
       {
         "counter": 4,
-        "language": "JSON",
-        "sum": 51,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
-      },
-      {
-        "counter": 4,
         "language": "Ignore List",
         "sum": 51,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
+      },
+      {
+        "counter": 4,
+        "language": "JSON",
+        "sum": 51,
+        "color": "#292929",
+        "url": "https://github.com/trending?l=JSON"
       },
       {
         "counter": 2,

@@ -83,11 +83,6 @@
       },
       {
         "counter": 1,
-        "language": "Text",
-        "sum": 50
-      },
-      {
-        "counter": 1,
         "language": "Ignore List",
         "sum": 50,
         "color": "#000000",
@@ -99,6 +94,11 @@
         "sum": 50,
         "color": "#384d54",
         "url": "https://github.com/trending?l=Dockerfile"
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 50
       }
     ],
     "more": {
@@ -217,6 +217,11 @@
       },
       {
         "counter": 1,
+        "language": "Text",
+        "sum": 5
+      },
+      {
+        "counter": 1,
         "language": "Ignore List",
         "sum": 5,
         "color": "#000000",
@@ -228,11 +233,6 @@
         "sum": 5,
         "color": "#cb171e",
         "url": "https://github.com/trending?l=YAML"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
-        "sum": 5
       }
     ],
     "more": {

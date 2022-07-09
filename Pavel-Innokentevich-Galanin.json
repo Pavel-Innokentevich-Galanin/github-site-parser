@@ -270,17 +270,17 @@
       },
       {
         "counter": 3,
-        "language": "SVG",
-        "sum": 101,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
-      },
-      {
-        "counter": 3,
         "language": "YAML",
         "sum": 101,
         "color": "#cb171e",
         "url": "https://github.com/trending?l=YAML"
+      },
+      {
+        "counter": 3,
+        "language": "SVG",
+        "sum": 101,
+        "color": "#ff9900",
+        "url": "https://github.com/trending?l=SVG"
       },
       {
         "counter": 2,
@@ -385,13 +385,6 @@
       },
       {
         "counter": 1,
-        "language": "SVG",
-        "sum": 22,
-        "color": "#ff9900",
-        "url": "https://github.com/trending?l=SVG"
-      },
-      {
-        "counter": 1,
         "language": "JSON with Comments",
         "sum": 22,
         "color": "#292929",
@@ -399,15 +392,22 @@
       },
       {
         "counter": 1,
-        "language": "Ignore List",
+        "language": "SVG",
         "sum": 22,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "color": "#ff9900",
+        "url": "https://github.com/trending?l=SVG"
       },
       {
         "counter": 1,
         "language": "Text",
         "sum": 22
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 22,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       }
     ],
     "more": {
@@ -452,15 +452,15 @@
       },
       {
         "counter": 1,
-        "language": "Text",
-        "sum": 5
-      },
-      {
-        "counter": 1,
         "language": "YAML",
         "sum": 5,
         "color": "#cb171e",
         "url": "https://github.com/trending?l=YAML"
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 5
       }
     ],
     "more": {
@@ -477,7 +477,7 @@
   {
     "name": "github-site-parser",
     "html_url": "https://github.com/Pavel-Innokentevich-Galanin/github-site-parser",
-    "updated_at": "2022-07-09T14:08:27Z",
+    "updated_at": "2022-07-09T14:13:01Z",
     "owner": {
       "login": "Pavel-Innokentevich-Galanin"
     },
@@ -505,15 +505,15 @@
       },
       {
         "counter": 1,
-        "language": "Text",
-        "sum": 13
-      },
-      {
-        "counter": 1,
         "language": "Ignore List",
         "sum": 13,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 13
       }
     ],
     "more": {
