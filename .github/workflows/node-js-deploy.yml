@@ -7,6 +7,7 @@ on:
 env:
   user_name: 'github-actions[bot]'
   user_email: 'github-actions[bot]@users.noreply.github.com'
+  github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
 
 jobs:
   build:
@@ -22,4 +23,5 @@ jobs:
       - run: |
           git config user.name $user_name
           git config user.email $user_email
+          git remote set-url origin https://git:${github_token}@github.com/${{ github.repository }}.git
           npm run deploy
