@@ -19,7 +19,6 @@ module.exports = async function getReposOrg(org, ColorsObject = {}) {
       id: 'org-repositories',
     });
 
-    //   const ul = soup.find('ul');
     const li_array = div_org_repos.findAll('li', { class: 'Box-row' });
     li_array.forEach((element) => {
       const repo_title__h3 = element.find('h3');
@@ -28,9 +27,6 @@ module.exports = async function getReposOrg(org, ColorsObject = {}) {
       const repo_title__url = `https://github.com${repo_title__a.attrs.href}`;
       const date__tag = element.find('relative-time');
       const date__str = date__tag.attrs.datetime;
-      const days_ago = Math.round(
-        (Date.now() - Date.parse(date__str)) / 86400000
-      );
       array_repos.push({
         name: repo_title__text,
         html_url: repo_title__url,
@@ -39,8 +35,6 @@ module.exports = async function getReposOrg(org, ColorsObject = {}) {
           login: org,
         },
       });
-
-      // console.log(`${repo_title__text} - https://github.com${repo_title__url}`);
     });
 
     console.log(`${org} langs`);
@@ -74,8 +68,8 @@ module.exports = async function getReposOrg(org, ColorsObject = {}) {
     saveFile(`./build/${org}.json`, JSON.stringify(array_repos, null, 2));
 
     return array_repos;
-  } catch (err) {
-    console.log('' + err);
+  } catch (error) {
+    console.log('' + error);
     return [];
   }
 };

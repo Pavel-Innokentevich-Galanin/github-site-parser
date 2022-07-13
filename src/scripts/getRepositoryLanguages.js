@@ -23,14 +23,12 @@ module.exports = async function getRepositoryLanguages(
     ul_li_array?.forEach((element) => {
       const a = element?.find('a');
       const a__text = a?.getText('@@@').split('@@@');
-      //   console.log(a__text);
       const counter = Number(a__text[0]);
       const language = a__text[1]?.replace('\n', '')?.trim();
       array?.push({
         counter,
         language,
       });
-      //   console.log('=================================');
     });
 
     let sum_counter = 0;
@@ -57,14 +55,9 @@ module.exports = async function getRepositoryLanguages(
       return 0;
     });
 
-    // console.log(array.map((e) => e.lang).join(', '));
     return array;
-  } catch (err) {
-    console.log(JSON.stringify(err, null, 2));
-    console.log(err);
-    console.log('errrrr');
+  } catch (error) {
+    console.log('' + error);
     return [];
   }
 };
-
-// main('Pavel-Innokentevich-Galanin', '1sem_OAiP');

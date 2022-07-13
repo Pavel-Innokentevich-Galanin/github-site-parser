@@ -10,7 +10,6 @@ module.exports = async function getReposUser(user, ColorsObject = {}) {
     let array_repos = [];
     let url = `https://github.com/${user}?page=1&tab=repositories`;
     while (1) {
-      // console.log(url);
       let response = await axios.get(url);
       const html = response.data;
 
@@ -47,10 +46,6 @@ module.exports = async function getReposUser(user, ColorsObject = {}) {
             login: user,
           },
         });
-
-        // console.log(
-        // `${repo_title__text} - https://github.com${repo_title__url}`
-        // );
       });
 
       //Получаем блок с кнопками вперёд и назад
@@ -69,8 +64,6 @@ module.exports = async function getReposUser(user, ColorsObject = {}) {
         break;
       } else {
         url = `https://github.com${url}`;
-        // console.log(' ');
-        // console.log(url);
       }
     }
 
@@ -105,8 +98,8 @@ module.exports = async function getReposUser(user, ColorsObject = {}) {
     saveFile(`./build/${user}.json`, JSON.stringify(array_repos, null, 2));
 
     return array_repos;
-  } catch (err) {
-    console.log(err);
+  } catch (error) {
+    console.log('' + error);
     return [];
   }
 };

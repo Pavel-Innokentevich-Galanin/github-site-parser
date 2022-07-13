@@ -63,12 +63,12 @@ module.exports = async function getRepositoryInfo(login, repo) {
       stars,
       watchers,
       forks,
+      topics,
     };
-    // console.log(result);
 
     return result;
-  } catch (err) {
-    console.log('' + err);
+  } catch (error) {
+    console.log('' + error);
     return {};
   }
 };
