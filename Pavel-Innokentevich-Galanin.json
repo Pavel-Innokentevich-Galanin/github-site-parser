@@ -1,65 +1,5 @@
 [
   {
-    "name": "BrSTU-literature-generator-bot",
-    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-literature-generator-bot",
-    "updated_at": "2022-06-23T21:32:20Z",
-    "owner": {
-      "login": "Pavel-Innokentevich-Galanin"
-    },
-    "languages": [
-      {
-        "counter": 3,
-        "language": "JSON",
-        "sum": 9,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
-      },
-      {
-        "counter": 2,
-        "language": "JavaScript",
-        "sum": 9,
-        "color": "#f1e05a",
-        "url": "https://github.com/trending?l=JavaScript"
-      },
-      {
-        "counter": 1,
-        "language": "Markdown",
-        "sum": 9,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
-      },
-      {
-        "counter": 1,
-        "language": "Shell",
-        "sum": 9,
-        "color": "#89e051",
-        "url": "https://github.com/trending?l=Shell"
-      },
-      {
-        "counter": 1,
-        "language": "Ignore List",
-        "sum": 9,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
-        "sum": 9
-      }
-    ],
-    "more": {
-      "description": "Telegram bot, который по сообщению с ссылками будет генерировать TeX разметку по ГОСТ (title [Электронный ресурс]. Режим доступа: \\url{}. Дата доступа: XX.XX.XXXX. title [Electronic resource]. Mode of access: \\url{}. Date of access: XX.XX.XXXX.)",
-      "license": {
-        "name": "GPL-3.0 license",
-        "url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-literature-generator-bot/blob/main/LICENSE"
-      },
-      "stars": 0,
-      "watchers": 1,
-      "forks": 0
-    }
-  },
-  {
     "name": "BrSTU-olimp",
     "html_url": "https://github.com/Pavel-Innokentevich-Galanin/BrSTU-olimp",
     "updated_at": "2022-05-17T21:42:34Z",
@@ -109,7 +49,8 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
@@ -136,6 +77,13 @@
       },
       {
         "counter": 1,
+        "language": "Makefile",
+        "sum": 35,
+        "color": "#427819",
+        "url": "https://github.com/trending?l=Makefile"
+      },
+      {
+        "counter": 1,
         "language": "YAML",
         "sum": 35,
         "color": "#cb171e",
@@ -159,13 +107,6 @@
         "sum": 35,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 1,
-        "language": "Makefile",
-        "sum": 35,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
       }
     ],
     "more": {
@@ -176,7 +117,16 @@
       },
       "stars": 2,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "latex",
+        "coursework",
+        "eskd",
+        "eskdx",
+        "brstu",
+        "category-bstu-other",
+        "eskdtext"
+      ]
     }
   },
   {
@@ -229,7 +179,8 @@
       },
       "stars": 1,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
@@ -317,25 +268,18 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
     "name": "Pavel-Innokentevich-Galanin",
     "html_url": "https://github.com/Pavel-Innokentevich-Galanin/Pavel-Innokentevich-Galanin",
-    "updated_at": "2022-07-09T14:00:37Z",
+    "updated_at": "2022-07-13T20:51:35Z",
     "owner": {
       "login": "Pavel-Innokentevich-Galanin"
     },
-    "languages": [
-      {
-        "counter": 1,
-        "language": "Markdown",
-        "sum": 1,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
-      }
-    ],
+    "languages": [],
     "more": {
       "description": "",
       "license": {
@@ -344,7 +288,8 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
@@ -385,13 +330,6 @@
       },
       {
         "counter": 1,
-        "language": "JSON with Comments",
-        "sum": 22,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON-with-Comments"
-      },
-      {
-        "counter": 1,
         "language": "SVG",
         "sum": 22,
         "color": "#ff9900",
@@ -399,8 +337,10 @@
       },
       {
         "counter": 1,
-        "language": "Text",
-        "sum": 22
+        "language": "JSON with Comments",
+        "sum": 22,
+        "color": "#292929",
+        "url": "https://github.com/trending?l=JSON-with-Comments"
       },
       {
         "counter": 1,
@@ -408,6 +348,11 @@
         "sum": 22,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 22
       }
     ],
     "more": {
@@ -418,7 +363,8 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
@@ -471,13 +417,42 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": []
+    }
+  },
+  {
+    "name": "github-profile-page-auto-updator",
+    "html_url": "https://github.com/Pavel-Innokentevich-Galanin/github-profile-page-auto-updator",
+    "updated_at": "2022-07-13T20:55:05Z",
+    "owner": {
+      "login": "Pavel-Innokentevich-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 1,
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
+      }
+    ],
+    "more": {
+      "description": "",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/Pavel-Innokentevich-Galanin/github-profile-page-auto-updator/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 1,
+      "forks": 0,
+      "topics": []
     }
   },
   {
     "name": "github-site-parser",
     "html_url": "https://github.com/Pavel-Innokentevich-Galanin/github-site-parser",
-    "updated_at": "2022-07-09T14:13:01Z",
+    "updated_at": "2022-07-13T22:05:17Z",
     "owner": {
       "login": "Pavel-Innokentevich-Galanin"
     },
@@ -505,15 +480,15 @@
       },
       {
         "counter": 1,
+        "language": "Text",
+        "sum": 13
+      },
+      {
+        "counter": 1,
         "language": "Ignore List",
         "sum": 13,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 1,
-        "language": "Text",
-        "sum": 13
       }
     ],
     "more": {
@@ -524,7 +499,8 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
@@ -570,7 +546,8 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
@@ -651,7 +628,8 @@
       },
       "stars": 0,
       "watchers": 2,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   }
 ]

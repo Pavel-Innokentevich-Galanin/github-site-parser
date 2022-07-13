@@ -2,7 +2,7 @@
   {
     "name": ".github",
     "html_url": "https://github.com/ToDoCalendar/.github",
-    "updated_at": "2022-06-01T19:21:08Z",
+    "updated_at": "2022-07-09T22:38:58Z",
     "owner": {
       "login": "ToDoCalendar"
     },
@@ -28,7 +28,8 @@
       },
       "stars": 0,
       "watchers": 0,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
@@ -55,20 +56,6 @@
       },
       {
         "counter": 2,
-        "language": "Markdown",
-        "sum": 50,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
-      },
-      {
-        "counter": 2,
-        "language": "JSON",
-        "sum": 50,
-        "color": "#292929",
-        "url": "https://github.com/trending?l=JSON"
-      },
-      {
-        "counter": 2,
         "language": "INI",
         "sum": 50,
         "color": "#d1dbe0",
@@ -82,11 +69,18 @@
         "url": "https://github.com/trending?l=TOML"
       },
       {
-        "counter": 1,
-        "language": "Ignore List",
+        "counter": 2,
+        "language": "Markdown",
         "sum": 50,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
+      },
+      {
+        "counter": 2,
+        "language": "JSON",
+        "sum": 50,
+        "color": "#292929",
+        "url": "https://github.com/trending?l=JSON"
       },
       {
         "counter": 1,
@@ -99,6 +93,13 @@
         "counter": 1,
         "language": "Text",
         "sum": 50
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 50,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       }
     ],
     "more": {
@@ -109,82 +110,83 @@
       },
       "stars": 0,
       "watchers": 0,
-      "forks": 2
+      "forks": 2,
+      "topics": []
     }
   },
   {
     "name": "ToDoCalendar_frontend",
     "html_url": "https://github.com/ToDoCalendar/ToDoCalendar_frontend",
-    "updated_at": "2022-07-06T16:25:05Z",
+    "updated_at": "2022-07-11T21:43:53Z",
     "owner": {
       "login": "ToDoCalendar"
     },
     "languages": [
       {
-        "counter": 26,
+        "counter": 24,
         "language": "JavaScript",
-        "sum": 72,
+        "sum": 58,
         "color": "#f1e05a",
         "url": "https://github.com/trending?l=JavaScript"
       },
       {
-        "counter": 15,
+        "counter": 10,
         "language": "CSS",
-        "sum": 72,
+        "sum": 58,
         "color": "#563d7c",
         "url": "https://github.com/trending?l=CSS"
       },
       {
-        "counter": 9,
-        "language": "Markdown",
-        "sum": 72,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
-      },
-      {
         "counter": 7,
         "language": "SVG",
-        "sum": 72,
+        "sum": 58,
         "color": "#ff9900",
         "url": "https://github.com/trending?l=SVG"
       },
       {
-        "counter": 6,
+        "counter": 4,
+        "language": "Markdown",
+        "sum": 58,
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
+      },
+      {
+        "counter": 4,
         "language": "JSON",
-        "sum": 72,
+        "sum": 58,
         "color": "#292929",
         "url": "https://github.com/trending?l=JSON"
       },
       {
         "counter": 3,
         "language": "Ignore List",
-        "sum": 72,
+        "sum": 58,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
       },
       {
         "counter": 2,
         "language": "YAML",
-        "sum": 72,
+        "sum": 58,
         "color": "#cb171e",
         "url": "https://github.com/trending?l=YAML"
       },
       {
         "counter": 2,
         "language": "Text",
-        "sum": 72
+        "sum": 58
       },
       {
         "counter": 1,
         "language": "Browserslist",
-        "sum": 72,
+        "sum": 58,
         "color": "#ffd539",
         "url": "https://github.com/trending?l=Browserslist"
       },
       {
         "counter": 1,
         "language": "HTML",
-        "sum": 72,
+        "sum": 58,
         "color": "#e34c26",
         "url": "https://github.com/trending?l=HTML"
       }
@@ -197,7 +199,8 @@
       },
       "stars": 0,
       "watchers": 0,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   },
   {
@@ -243,7 +246,8 @@
       },
       "stars": 0,
       "watchers": 0,
-      "forks": 0
+      "forks": 0,
+      "topics": []
     }
   }
 ]

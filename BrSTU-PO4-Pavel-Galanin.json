@@ -1,5 +1,38 @@
 [
   {
+    "name": ".github",
+    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/.github",
+    "updated_at": "2022-07-09T16:55:44Z",
+    "owner": {
+      "login": "BrSTU-PO4-Pavel-Galanin"
+    },
+    "languages": [
+      {
+        "counter": 1,
+        "language": "Markdown",
+        "sum": 2,
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
+      },
+      {
+        "counter": 1,
+        "language": "Text",
+        "sum": 2
+      }
+    ],
+    "more": {
+      "description": "",
+      "license": {
+        "name": "GPL-3.0 license",
+        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/.github/blob/main/LICENSE"
+      },
+      "stars": 0,
+      "watchers": 0,
+      "forks": 0,
+      "topics": []
+    }
+  },
+  {
     "name": "1sem_OAiP",
     "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/1sem_OAiP",
     "updated_at": "2022-06-06T08:56:30Z",
@@ -77,74 +110,10 @@
       },
       "stars": 0,
       "watchers": 0,
-      "forks": 0
-    }
-  },
-  {
-    "name": "2sem_YP",
-    "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/2sem_YP",
-    "updated_at": "2021-07-19T10:06:20Z",
-    "owner": {
-      "login": "BrSTU-PO4-Pavel-Galanin"
-    },
-    "languages": [
-      {
-        "counter": 37,
-        "language": "C",
-        "sum": 119,
-        "color": "#555555",
-        "url": "https://github.com/trending?l=C"
-      },
-      {
-        "counter": 35,
-        "language": "TeX",
-        "sum": 119,
-        "color": "#3D6117",
-        "url": "https://github.com/trending?l=TeX"
-      },
-      {
-        "counter": 20,
-        "language": "Markdown",
-        "sum": 119,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
-      },
-      {
-        "counter": 10,
-        "language": "Ignore List",
-        "sum": 119,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 7,
-        "language": "Text",
-        "sum": 119
-      },
-      {
-        "counter": 5,
-        "language": "YAML",
-        "sum": 119,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
-      },
-      {
-        "counter": 5,
-        "language": "CMake",
-        "sum": 119,
-        "color": "#DA3434",
-        "url": "https://github.com/trending?l=CMake"
-      }
-    ],
-    "more": {
-      "description": "Лабораторные работы по дисциплине \"Языки программирования\" [C]",
-      "license": {
-        "name": "Unlicense license",
-        "url": "https://github.com/BrSTU-PO4-Pavel-Galanin/2sem_YP/blob/Galanin_Pavel/LICENSE"
-      },
-      "stars": 0,
-      "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-1semestr"
+      ]
     }
   },
   {
@@ -213,7 +182,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-2semestr",
+        "brstu-poit-2-semestr"
+      ]
     }
   },
   {
@@ -273,7 +246,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-3semestr",
+        "brstu-poit-3-semestr"
+      ]
     }
   },
   {
@@ -326,7 +303,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-3semestr",
+        "brstu-poit-3-semestr"
+      ]
     }
   },
   {
@@ -360,6 +341,13 @@
       },
       {
         "counter": 5,
+        "language": "CSV",
+        "sum": 85,
+        "color": "#237346",
+        "url": "https://github.com/trending?l=CSV"
+      },
+      {
+        "counter": 5,
         "language": "Makefile",
         "sum": 85,
         "color": "#427819",
@@ -371,13 +359,6 @@
         "sum": 85,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 5,
-        "language": "CSV",
-        "sum": 85,
-        "color": "#237346",
-        "url": "https://github.com/trending?l=CSV"
       },
       {
         "counter": 3,
@@ -407,7 +388,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-3semestr",
+        "brstu-poit-3-semestr"
+      ]
     }
   },
   {
@@ -467,7 +452,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-3semestr",
+        "brstu-poit-3-semestr"
+      ]
     }
   },
   {
@@ -501,6 +490,13 @@
       },
       {
         "counter": 1,
+        "language": "CSS",
+        "sum": 54,
+        "color": "#563d7c",
+        "url": "https://github.com/trending?l=CSS"
+      },
+      {
+        "counter": 1,
         "language": "YAML",
         "sum": 54,
         "color": "#cb171e",
@@ -529,13 +525,6 @@
       },
       {
         "counter": 1,
-        "language": "CSS",
-        "sum": 54,
-        "color": "#563d7c",
-        "url": "https://github.com/trending?l=CSS"
-      },
-      {
-        "counter": 1,
         "language": "Makefile",
         "sum": 54,
         "color": "#427819",
@@ -550,7 +539,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-3semestr"
+      ]
     }
   },
   {
@@ -624,7 +616,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-4semestr"
+      ]
     }
   },
   {
@@ -712,7 +707,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-4semestr"
+      ]
     }
   },
   {
@@ -779,7 +777,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-4semestr"
+      ]
     }
   },
   {
@@ -867,7 +868,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -927,10 +931,10 @@
       },
       {
         "counter": 1,
-        "language": "Makefile",
+        "language": "Markdown",
         "sum": 140,
-        "color": "#427819",
-        "url": "https://github.com/trending?l=Makefile"
+        "color": "#083fa1",
+        "url": "https://github.com/trending?l=Markdown"
       },
       {
         "counter": 1,
@@ -941,10 +945,10 @@
       },
       {
         "counter": 1,
-        "language": "Markdown",
+        "language": "Makefile",
         "sum": 140,
-        "color": "#083fa1",
-        "url": "https://github.com/trending?l=Markdown"
+        "color": "#427819",
+        "url": "https://github.com/trending?l=Makefile"
       }
     ],
     "more": {
@@ -955,7 +959,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -980,7 +988,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1005,7 +1017,11 @@
       },
       "stars": 0,
       "watchers": 0,
-      "forks": 9
+      "forks": 9,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1058,7 +1074,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1090,7 +1109,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 1
+      "forks": 1,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1122,7 +1145,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1154,7 +1181,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1186,7 +1217,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1218,7 +1253,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1237,7 +1275,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1271,15 +1313,15 @@
       },
       {
         "counter": 10,
+        "language": "Text",
+        "sum": 126
+      },
+      {
+        "counter": 10,
         "language": "Ignore List",
         "sum": 126,
         "color": "#000000",
         "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 10,
-        "language": "Text",
-        "sum": 126
       },
       {
         "counter": 9,
@@ -1325,13 +1367,17 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
     "name": "5sem_coursework",
     "html_url": "https://github.com/BrSTU-PO4-Pavel-Galanin/5sem_coursework",
-    "updated_at": "2022-06-26T17:36:16Z",
+    "updated_at": "2022-07-12T21:05:36Z",
     "owner": {
       "login": "BrSTU-PO4-Pavel-Galanin"
     },
@@ -1413,7 +1459,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 1
+      "forks": 1,
+      "topics": [
+        "category-bstu-5semestr",
+        "brstu-poit-5-semestr"
+      ]
     }
   },
   {
@@ -1433,10 +1483,8 @@
       },
       {
         "counter": 1,
-        "language": "Ignore List",
-        "sum": 4,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
+        "language": "Text",
+        "sum": 4
       },
       {
         "counter": 1,
@@ -1447,8 +1495,10 @@
       },
       {
         "counter": 1,
-        "language": "Text",
-        "sum": 4
+        "language": "Ignore List",
+        "sum": 4,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       }
     ],
     "more": {
@@ -1459,7 +1509,11 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-6semestr",
+        "brstu-poit-6-semestr"
+      ]
     }
   },
   {
@@ -1547,7 +1601,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-6semestr"
+      ]
     }
   },
   {
@@ -1588,17 +1645,17 @@
       },
       {
         "counter": 6,
-        "language": "YAML",
-        "sum": 226,
-        "color": "#cb171e",
-        "url": "https://github.com/trending?l=YAML"
-      },
-      {
-        "counter": 6,
         "language": "Makefile",
         "sum": 226,
         "color": "#427819",
         "url": "https://github.com/trending?l=Makefile"
+      },
+      {
+        "counter": 6,
+        "language": "YAML",
+        "sum": 226,
+        "color": "#cb171e",
+        "url": "https://github.com/trending?l=YAML"
       },
       {
         "counter": 3,
@@ -1633,7 +1690,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-6semestr"
+      ]
     }
   },
   {
@@ -1665,17 +1725,17 @@
       },
       {
         "counter": 1,
-        "language": "Ignore List",
-        "sum": 21,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 1,
         "language": "YAML",
         "sum": 21,
         "color": "#cb171e",
         "url": "https://github.com/trending?l=YAML"
+      },
+      {
+        "counter": 1,
+        "language": "Ignore List",
+        "sum": 21,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       }
     ],
     "more": {
@@ -1686,7 +1746,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-6semestr"
+      ]
     }
   },
   {
@@ -1720,17 +1783,17 @@
       },
       {
         "counter": 4,
-        "language": "Ignore List",
-        "sum": 51,
-        "color": "#000000",
-        "url": "https://github.com/trending?l=Ignore-List"
-      },
-      {
-        "counter": 4,
         "language": "JSON",
         "sum": 51,
         "color": "#292929",
         "url": "https://github.com/trending?l=JSON"
+      },
+      {
+        "counter": 4,
+        "language": "Ignore List",
+        "sum": 51,
+        "color": "#000000",
+        "url": "https://github.com/trending?l=Ignore-List"
       },
       {
         "counter": 2,
@@ -1774,7 +1837,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-6semestr"
+      ]
     }
   },
   {
@@ -1848,7 +1914,10 @@
       },
       "stars": 0,
       "watchers": 1,
-      "forks": 0
+      "forks": 0,
+      "topics": [
+        "category-bstu-7semestr"
+      ]
     }
   }
 ]
